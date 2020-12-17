@@ -1,4 +1,4 @@
-<img src="cover-photo-my-face.jpg" width="400px" />
+<img src="github-cover-photo-my-face.jpg" width="400px" />
 
 ### Hi there, I'm Caleb! 🍛
 
