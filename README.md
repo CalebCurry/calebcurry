@@ -6,3 +6,7 @@
 - 🎥 Watch my tutorials on [YouTube](https://www.youtube.com/calebthevideomaker2)
 - 📗 My courses on [CodeBreakthrough](https://www.codebreakthrough.com)
 - 🤔 I’m currently studying: [Python](https://www.youtube.com/watch?v=s3IvdkCq2_c&t=4254s)
+
+### Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
