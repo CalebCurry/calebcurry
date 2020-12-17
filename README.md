@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="cover-photo-my-face.jpg" width="400px" />
+
+### Hi there, I'm Caleb! 🍛
 
 - 💰 Sponor me on [GitHub](https://github.com/sponsors/CalebCurry)
 - 🎥 Watch my tutorials on [YouTube](https://www.youtube.com/calebthevideomaker2)
