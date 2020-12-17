@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Git + Github Branches, Forks, and Pull Requests](https://www.youtube.com/watch?v=oa1wXWeH1IQ)
 - [Local C++ Notebook Installation (Xeus Cling and Jupyterlab) - C++ Intermediate](https://www.youtube.com/watch?v=VdkfdBm_6W4)
 - [C++ Intermediate - Getting Started with C++ and Notebooks](https://www.youtube.com/watch?v=iTL4iyFE_KI)
 - [Getting started with Git & GitHub (Start your own projects!)](https://www.youtube.com/watch?v=SExhUmE7OLA)
 - [C++  Notebooks (and New C++ Series)](https://www.youtube.com/watch?v=woVSL8-zmac)
-- [25 Pythonic Tips + Tricks](https://www.youtube.com/watch?v=y4I3VI1N_ts)
 <!-- YOUTUBE:END -->
