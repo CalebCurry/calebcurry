@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How Much Money from my First Python Course?](https://www.youtube.com/watch?v=BlzAPxO3HiM)
 - [DEADLY C++ Mistakes Beginners Make](https://www.youtube.com/watch?v=0G1NcVrvmqc)
 - [How much YouTube paid me for 1,000,000 C++ Views (SHOCKING)](https://www.youtube.com/watch?v=AqIIv75TRCk)
 - [C++ Strings - Intro and Comparison to C Strings](https://www.youtube.com/watch?v=qUcHK3zVp1I)
 - [Git + GitHub Branches, Forks, and Pull Requests](https://www.youtube.com/watch?v=oa1wXWeH1IQ)
-- [Local C++ Notebook Installation (Xeus Cling and Jupyterlab) - C++ Intermediate](https://www.youtube.com/watch?v=VdkfdBm_6W4)
 <!-- YOUTUBE:END -->
