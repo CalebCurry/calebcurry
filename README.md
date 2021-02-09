@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [I messed up...](https://www.youtube.com/watch?v=QHGZcdJA3bg)
 - [My First Tech Job (Story)](https://www.youtube.com/watch?v=NgTKuG7Fr9c)
 - [Top C++ Creators on YouTube](https://www.youtube.com/watch?v=e7kf5LdxYjw)
 - [No more Tutorial Series' in 2021?](https://www.youtube.com/watch?v=lAg7GRCW1Gk)
 - [Quitting C++...](https://www.youtube.com/watch?v=K7jlvk5Cceg)
-- [How Much Money I made from my First Python Course?](https://www.youtube.com/watch?v=BlzAPxO3HiM)
 <!-- YOUTUBE:END -->
