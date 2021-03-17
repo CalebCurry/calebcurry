@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How does Proof of Work ACTUALLY Work?](https://www.youtube.com/watch?v=yOQveeuaS8Y)
 - [Favorite Websites Launcher - Full Application in Python with SQLite](https://www.youtube.com/watch?v=XgMCKv-k-2A)
 - [What is Bitcoin and the Bitcoin Blockchain?](https://www.youtube.com/watch?v=Zyl0Ng57Cx4)
 - [Blockchain Data Structure Concepts](https://www.youtube.com/watch?v=-FjniXnf0PA)
 - [Introduction to Blockchain](https://www.youtube.com/watch?v=dSiZdYzJ7xw)
-- [DeFi and Yield Farming, Decentralized apps, and What you Need to Know (🔴 on CoinBreakthrough)](https://www.youtube.com/watch?v=jI7toICC8MY)
 <!-- YOUTUBE:END -->
