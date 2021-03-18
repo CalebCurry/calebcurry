@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Hashrates, Target and Difficulty in Proof of Work Mining](https://www.youtube.com/watch?v=mWGFtbKqNYk)
 - [How does Proof of Work ACTUALLY Work?](https://www.youtube.com/watch?v=yOQveeuaS8Y)
 - [Favorite Websites Launcher - Full Application in Python with SQLite](https://www.youtube.com/watch?v=XgMCKv-k-2A)
 - [What is Bitcoin and the Bitcoin Blockchain?](https://www.youtube.com/watch?v=Zyl0Ng57Cx4)
 - [Blockchain Data Structure Concepts](https://www.youtube.com/watch?v=-FjniXnf0PA)
-- [Introduction to Blockchain](https://www.youtube.com/watch?v=dSiZdYzJ7xw)
 <!-- YOUTUBE:END -->
