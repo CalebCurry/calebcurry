@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Java Object Oriented Programming Introduction (12 Minutes)](https://www.youtube.com/watch?v=luggwIg0w2c)
 - [Consume an API with Python Requests](https://www.youtube.com/watch?v=D2APJrBwZBQ)
 - [What does it Take to be a Python Engineer? Ft Python Engineer](https://www.youtube.com/watch?v=01CYvB5w4wk)
 - [Hashrates, Target and Difficulty in Proof of Work Mining](https://www.youtube.com/watch?v=mWGFtbKqNYk)
 - [How does Proof of Work ACTUALLY Work?](https://www.youtube.com/watch?v=yOQveeuaS8Y)
-- [Favorite Websites Launcher - Full Application in Python with SQLite](https://www.youtube.com/watch?v=XgMCKv-k-2A)
 <!-- YOUTUBE:END -->
