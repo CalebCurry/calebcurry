@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Hands on Guide to Ethereum and Uniswap](https://www.youtube.com/watch?v=o6q5gRbwMNY)
 - [Ethereum Basics - Introduction to the Ethereum Network](https://www.youtube.com/watch?v=KhyRpAerXjQ)
 - [Getters and Setters - Java OOP 2](https://www.youtube.com/watch?v=SulzbcU41kE)
 - [Intro to Flask Web Development (20 Minutes)](https://www.youtube.com/watch?v=NvoX9l1Odgk)
 - [Python Bootcamp is now OPEN!](https://www.youtube.com/watch?v=-eELejNfGZg)
-- [NEW Channel Announcement.](https://www.youtube.com/watch?v=1zSfCG6cnM4)
 <!-- YOUTUBE:END -->
