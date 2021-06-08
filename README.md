@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Intro to Screen in Linux (Run Multiple Terminal Screens)](https://www.youtube.com/watch?v=auWiTGGB6T8)
 - [Working with Files in Linux (Basics in Ubuntu)](https://www.youtube.com/watch?v=t9Mw-zrXSao)
 - [Basic Linux Commands (Ubuntu Getting Started Guide)](https://www.youtube.com/watch?v=gbLMC_WWBmU)
 - [Working with BNB - Step by Step with Trust Wallet](https://www.youtube.com/watch?v=e8wJVkR3Pho)
 - [Binance Introduction - BNB and BSC (Binance Smart Chain)](https://www.youtube.com/watch?v=NZQ4Fv4boWc)
-- [Hands on Guide to Ethereum and Uniswap](https://www.youtube.com/watch?v=o6q5gRbwMNY)
 <!-- YOUTUBE:END -->
