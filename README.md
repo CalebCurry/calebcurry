@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build and Deploy a Discord Bot in the Cloud (Hostinger)](https://www.youtube.com/watch?v=NFIoveAHrsI)
 - [Generic Lists (Java OOP 6)](https://www.youtube.com/watch?v=JszHsxbRRZE)
 - [Super Clean Visual Studio Code Setup (Clutter Free Output)](https://www.youtube.com/watch?v=XKR7t0oagUk)
 - [Method Overriding in Java (Java OOP 5)](https://www.youtube.com/watch?v=l5hh1DCyrwM)
 - [Constructors in Java (Java OOP 4)](https://www.youtube.com/watch?v=F16DPObd1hY)
-- [Method Overloading In Java (Java OOP 3)](https://www.youtube.com/watch?v=uqRGLMU53LA)
 <!-- YOUTUBE:END -->
