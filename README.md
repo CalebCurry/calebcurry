@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Extending a Class with Inheritance (Java OOP 9)](https://www.youtube.com/watch?v=9znjMsU-wbM)
 - [Creating Static Methods (Java OOP 8)](https://www.youtube.com/watch?v=xO_HCT4QfIw)
 - [Static Data Members (Java OOP 7)](https://www.youtube.com/watch?v=joeNPV4H0j8)
 - [Build and Deploy a Discord Bot in the Cloud (Hostinger)](https://www.youtube.com/watch?v=NFIoveAHrsI)
 - [Generic Lists (Java OOP 6)](https://www.youtube.com/watch?v=JszHsxbRRZE)
-- [Super Clean Visual Studio Code Setup (Clutter Free Output)](https://www.youtube.com/watch?v=XKR7t0oagUk)
 <!-- YOUTUBE:END -->
