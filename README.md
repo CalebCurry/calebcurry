@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Getting Started with Ubuntu - Linux Tutorial 2](https://www.youtube.com/watch?v=Z3Ck9-wt-WQ)
 - [Introduction to Linux and Unix - Linux Tutorial 1](https://www.youtube.com/watch?v=__iKSnQXe_o)
 - [Extending a Class with Inheritance (Java OOP 9)](https://www.youtube.com/watch?v=9znjMsU-wbM)
 - [Creating Static Methods (Java OOP 8)](https://www.youtube.com/watch?v=xO_HCT4QfIw)
 - [Static Data Members (Java OOP 7)](https://www.youtube.com/watch?v=joeNPV4H0j8)
-- [Build and Deploy a Discord Bot in the Cloud (Hostinger)](https://www.youtube.com/watch?v=NFIoveAHrsI)
 <!-- YOUTUBE:END -->
