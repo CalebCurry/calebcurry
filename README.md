@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Customizing the Terminal Interface - Linux Tutorial 5](https://www.youtube.com/watch?v=HdVy_r3knlY)
 - [Getting Started with Linux Commands - Linux Tutorial 4](https://www.youtube.com/watch?v=OBgYHp3hrJQ)
 - [10 Beginner Tips to know with Ubuntu GUI - Linux Tutorial 3](https://www.youtube.com/watch?v=6KTow4PqhyY)
 - [Getting Started with Ubuntu - Linux Tutorial 2](https://www.youtube.com/watch?v=Z3Ck9-wt-WQ)
 - [Introduction to Linux and Unix - Linux Tutorial 1](https://www.youtube.com/watch?v=__iKSnQXe_o)
-- [Extending a Class with Inheritance (Java OOP 9)](https://www.youtube.com/watch?v=9znjMsU-wbM)
 <!-- YOUTUBE:END -->
