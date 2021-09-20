@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Navigating Directories and Tab Completion - Linux Tutorial 6](https://www.youtube.com/watch?v=xP-uxSUZH7s)
 - [Customizing the Terminal Interface - Linux Tutorial 5](https://www.youtube.com/watch?v=HdVy_r3knlY)
 - [Getting Started with Linux Commands - Linux Tutorial 4](https://www.youtube.com/watch?v=OBgYHp3hrJQ)
 - [10 Beginner Tips to know with Ubuntu GUI - Linux Tutorial 3](https://www.youtube.com/watch?v=6KTow4PqhyY)
 - [Getting Started with Ubuntu - Linux Tutorial 2](https://www.youtube.com/watch?v=Z3Ck9-wt-WQ)
-- [Introduction to Linux and Unix - Linux Tutorial 1](https://www.youtube.com/watch?v=__iKSnQXe_o)
 <!-- YOUTUBE:END -->
