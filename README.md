@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Move and Copy (mv and cp) - Linux Tutorial 9](https://www.youtube.com/watch?v=eyV0gLFuCDQ)
 - [File Extensions in Linux - Linux Tutorial 8](https://www.youtube.com/watch?v=2y1wM1SXJF8)
 - [Relative and Absolute Paths - Linux Tutorial 7](https://www.youtube.com/watch?v=MYdgugJT0TQ)
 - [Navigating Directories and Tab Completion - Linux Tutorial 6](https://www.youtube.com/watch?v=xP-uxSUZH7s)
 - [Customizing the Terminal Interface - Linux Tutorial 5](https://www.youtube.com/watch?v=HdVy_r3knlY)
-- [Getting Started with Linux Commands - Linux Tutorial 4](https://www.youtube.com/watch?v=OBgYHp3hrJQ)
 <!-- YOUTUBE:END -->
