@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Redirection and Standard Output - Linux Tutorial 12](https://www.youtube.com/watch?v=-xoymZMe4XM)
 - [Removing Directories (recursive and rmdir) - Linux Tutorial 11](https://www.youtube.com/watch?v=cS07J9vF14Y)
 - [Update Files (Move if Newer) - Linux Tutorial 10](https://www.youtube.com/watch?v=tmq55SL6gIg)
 - [Move and Copy (mv and cp) - Linux Tutorial 9](https://www.youtube.com/watch?v=eyV0gLFuCDQ)
 - [File Extensions in Linux - Linux Tutorial 8](https://www.youtube.com/watch?v=2y1wM1SXJF8)
-- [Relative and Absolute Paths - Linux Tutorial 7](https://www.youtube.com/watch?v=MYdgugJT0TQ)
 <!-- YOUTUBE:END -->
