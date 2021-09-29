@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Redirecting to Multiple Files - Linux Tutorial 14](https://www.youtube.com/watch?v=XPQ_YYwsmBQ)
 - [Redirecting Standard Error - Linux Tutorial 13](https://www.youtube.com/watch?v=46NhoMMuCuk)
 - [Intro to Polymorphism (Java OOP 10)](https://www.youtube.com/watch?v=noqfKioYOnA)
 - [Redirection and Standard Output - Linux Tutorial 12](https://www.youtube.com/watch?v=-xoymZMe4XM)
 - [Removing Directories (recursive and rmdir) - Linux Tutorial 11](https://www.youtube.com/watch?v=cS07J9vF14Y)
-- [Update Files (Move if Newer) - Linux Tutorial 10](https://www.youtube.com/watch?v=tmq55SL6gIg)
 <!-- YOUTUBE:END -->
