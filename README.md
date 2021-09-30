@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Redirect stdout and stderr to Same file - Linux Tutorial 15](https://www.youtube.com/watch?v=4ytaFM8GAz8)
 - [Redirecting to Multiple Files - Linux Tutorial 14](https://www.youtube.com/watch?v=XPQ_YYwsmBQ)
 - [Redirecting Standard Error - Linux Tutorial 13](https://www.youtube.com/watch?v=46NhoMMuCuk)
 - [Intro to Polymorphism (Java OOP 10)](https://www.youtube.com/watch?v=noqfKioYOnA)
 - [Redirection and Standard Output - Linux Tutorial 12](https://www.youtube.com/watch?v=-xoymZMe4XM)
-- [Removing Directories (recursive and rmdir) - Linux Tutorial 11](https://www.youtube.com/watch?v=cS07J9vF14Y)
 <!-- YOUTUBE:END -->
