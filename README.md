@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Intro to Piping and Pipelines - Linux Tutorial 16](https://www.youtube.com/watch?v=7PjAXqTPYPg)
 - [Redirect stdout and stderr to Same file - Linux Tutorial 15](https://www.youtube.com/watch?v=4ytaFM8GAz8)
 - [Redirecting to Multiple Files - Linux Tutorial 14](https://www.youtube.com/watch?v=XPQ_YYwsmBQ)
 - [Redirecting Standard Error - Linux Tutorial 13](https://www.youtube.com/watch?v=46NhoMMuCuk)
 - [Intro to Polymorphism (Java OOP 10)](https://www.youtube.com/watch?v=noqfKioYOnA)
-- [Redirection and Standard Output - Linux Tutorial 12](https://www.youtube.com/watch?v=-xoymZMe4XM)
 <!-- YOUTUBE:END -->
