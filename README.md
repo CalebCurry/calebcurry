@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Linux Tee Command - Linux Tutorial 17](https://www.youtube.com/watch?v=5p1T2sy54FY)
 - [Intro to Piping and Pipelines - Linux Tutorial 16](https://www.youtube.com/watch?v=7PjAXqTPYPg)
 - [Redirect stdout and stderr to Same file - Linux Tutorial 15](https://www.youtube.com/watch?v=4ytaFM8GAz8)
 - [Redirecting to Multiple Files - Linux Tutorial 14](https://www.youtube.com/watch?v=XPQ_YYwsmBQ)
 - [Redirecting Standard Error - Linux Tutorial 13](https://www.youtube.com/watch?v=46NhoMMuCuk)
-- [Intro to Polymorphism (Java OOP 10)](https://www.youtube.com/watch?v=noqfKioYOnA)
 <!-- YOUTUBE:END -->
