@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Intro to CurseForge Mod Manager](https://www.youtube.com/watch?v=YToNxJZTk0c)
 - [Installing Your First Minecraft Mod](https://www.youtube.com/watch?v=dNTp_LiUzzA)
 - [Getting Started with Minecraft Java Edition](https://www.youtube.com/watch?v=kHHSYK1esFA)
 - [Linux Tee Command - Linux Tutorial 17](https://www.youtube.com/watch?v=5p1T2sy54FY)
 - [Intro to Piping and Pipelines - Linux Tutorial 16](https://www.youtube.com/watch?v=7PjAXqTPYPg)
-- [Redirect stdout and stderr to Same file - Linux Tutorial 15](https://www.youtube.com/watch?v=4ytaFM8GAz8)
 <!-- YOUTUBE:END -->
