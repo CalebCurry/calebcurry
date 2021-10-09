@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Host Premium Minecraft Server With Mods (Hostinger)](https://www.youtube.com/watch?v=M7qpu_QVirk)
+- [How to Host Premium Minecraft Server (Hostinger)](https://www.youtube.com/watch?v=M7qpu_QVirk)
 - [Host Free Minecraft Server With Mods (Aternos)](https://www.youtube.com/watch?v=A8rFHa-3aB8)
 - [Intro to CurseForge Mod Manager](https://www.youtube.com/watch?v=YToNxJZTk0c)
 - [Installing Your First Minecraft Mod](https://www.youtube.com/watch?v=dNTp_LiUzzA)
