@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Linux Command Line All-in-One Tutorial Series (3 HOURS!)](https://www.youtube.com/watch?v=AOGPtRYaYPA)
 - [Multiple Terminal Sessions and Panes with Tmux - Linux Tutorial 28](https://www.youtube.com/watch?v=Gpq160_jPxw)
 - [Killing Processes and Signals - Linux Tutorial 27](https://www.youtube.com/watch?v=n5fwlI1atSw)
 - [Processes (ps and top Commands) Linux Tutorial 26](https://www.youtube.com/watch?v=aIkWNXnXJfM)
 - [Getting Started with Apt Install Advanced Packaging Tool - Linux Tutorial 25](https://www.youtube.com/watch?v=RLGFiUbr6hs)
-- [Control Operators (Semicolon, Ampersand, Double Pipe) - Linux Tutorial 24](https://www.youtube.com/watch?v=TC6hnAkwgH4)
 <!-- YOUTUBE:END -->
