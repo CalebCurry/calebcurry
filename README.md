@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Variables and User Input Command Line Arguments - Bash Programing Tutorial 3](https://www.youtube.com/watch?v=i8x71ykX2k4)
 - [Executing Shell Scripts - Bash Programing Tutorial 2](https://www.youtube.com/watch?v=f9cfyhOcf_s)
 - [Bash Introduction - Bash Programing Tutorial 1](https://www.youtube.com/watch?v=sAlYw1EgUkg)
 - [Linux Command Line All-in-One Tutorial Series (3 HOURS!)](https://www.youtube.com/watch?v=AOGPtRYaYPA)
 - [Multiple Terminal Sessions and Panes with Tmux - Linux Tutorial 28](https://www.youtube.com/watch?v=Gpq160_jPxw)
-- [Killing Processes and Signals - Linux Tutorial 27](https://www.youtube.com/watch?v=n5fwlI1atSw)
 <!-- YOUTUBE:END -->
