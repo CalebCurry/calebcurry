@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Comparison Operators and Square Brackets - Bash Programing Tutorial 6](https://www.youtube.com/watch?v=XSLj65wnP90)
 - [Intro to if Statements and Comparison - Bash Programing Tutorial 5](https://www.youtube.com/watch?v=in7EmB9Wfhc)
 - [Arithmetic Expressions - Bash Programing Tutorial 4](https://www.youtube.com/watch?v=rjuB3X8MOQc)
 - [Variables and User Input Command Line Arguments - Bash Programing Tutorial 3](https://www.youtube.com/watch?v=i8x71ykX2k4)
 - [Executing Shell Scripts - Bash Programing Tutorial 2](https://www.youtube.com/watch?v=f9cfyhOcf_s)
-- [Bash Introduction - Bash Programing Tutorial 1](https://www.youtube.com/watch?v=sAlYw1EgUkg)
 <!-- YOUTUBE:END -->
