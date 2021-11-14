@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Intro to Functions - Bash Programing Tutorial 10](https://www.youtube.com/watch?v=GypUy6ozk4Y)
 - [Intro to for Loops - Bash Programing Tutorial 9](https://www.youtube.com/watch?v=D53L7MkYvys)
 - [Logical Operators - Bash Programing Tutorial 8](https://www.youtube.com/watch?v=sDRHmbRlNT8)
 - [Nested if Statements - Bash Programing Tutorial 7](https://www.youtube.com/watch?v=w7j4bpgoBik)
 - [Comparison Operators and Square Brackets - Bash Programing Tutorial 6](https://www.youtube.com/watch?v=XSLj65wnP90)
-- [Intro to if Statements and Comparison - Bash Programing Tutorial 5](https://www.youtube.com/watch?v=in7EmB9Wfhc)
 <!-- YOUTUBE:END -->
