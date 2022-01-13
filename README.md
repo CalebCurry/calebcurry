@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Use Pull Requests to Prevent Bugs](https://www.youtube.com/watch?v=-HPN-oRQf3M)
 - [Using AWS S3 to Deploy a Static Site &lpar;Fastest Site Load Times!!&rpar;](https://www.youtube.com/watch?v=yOeCSSDHYrs)
 - [Every Dev must know Markdown, LET&#39;S GO! #shorts](https://www.youtube.com/watch?v=T4DygUQcfCs)
 - [You Should Learn Markdown - Markdown Crash Course](https://www.youtube.com/watch?v=5KF-MHvCuo4)
 - [Build a Markdown Documentation Site with Docusaurus &lpar;Step-by-Step&rpar;](https://www.youtube.com/watch?v=2R53Y7eP45k)
-- [Want to be a better developer? Do this every day! #shorts](https://www.youtube.com/watch?v=ZUEDkbF3H04)
 <!-- YOUTUBE:END -->
