@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Use Object Storage and Host Static Sites &lpar;AWS Simple Storage Service&rpar; #shorts](https://www.youtube.com/watch?v=FK45vVrloSM)
 - [Learning to Code? Become a Python Engineer in 100 days](https://www.youtube.com/watch?v=bub-ab7TzUQ)
 - [10 Ways to Use List Comprehension in Python &lpar;Dictionary and Sets, too!&rpar;](https://www.youtube.com/watch?v=G0YAD8vO3k0)
 - [Heard of Static Site Generators? &lpar;Learn in One Minute&rpar; #shorts](https://www.youtube.com/watch?v=CEvBDgCTH9I)
 - [Python Concepts for Beginners &lpar;Six Things You Should Know&rpar;](https://www.youtube.com/watch?v=JlnTEkPqwQE)
-- [Python Environment Setup for Windows, Mac, Linux &lpar;Pip and Venv&rpar;](https://www.youtube.com/watch?v=kz4gbWNO1cw)
 <!-- YOUTUBE:END -->
