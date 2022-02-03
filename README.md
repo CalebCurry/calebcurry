@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Consume an API in React the RIGHT way &lpar;useEffect, useState, fetch&rpar;](https://www.youtube.com/watch?v=ALdtGsyTh2E)
+- [Consume an API in React &lpar;useEffect, useState, fetch&rpar;](https://www.youtube.com/watch?v=ALdtGsyTh2E)
 - [Do you Know Enough Python to Learn Django?](https://www.youtube.com/watch?v=8rMuotrrRlg)
 - [How to Use Object Storage and Host Static Sites &lpar;AWS Simple Storage Service&rpar; #shorts](https://www.youtube.com/watch?v=FK45vVrloSM)
 - [Learning to Code? Become a Python Engineer in 100 days](https://www.youtube.com/watch?v=bub-ab7TzUQ)
