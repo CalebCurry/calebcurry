@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Save time Coding - Launch VS Code from Terminal #shorts](https://www.youtube.com/watch?v=V2cs2jIQk3I)
 - [Django Crash Course - Introduction + Python Web Development Tutorial](https://www.youtube.com/watch?v=EuBQU_miReM)
 - [How I Stay Motivated as a Developer in 2022](https://www.youtube.com/watch?v=stHLGzlkgzQ)
 - [Trojans and rootkits for everyone! Software disaster #shorts](https://www.youtube.com/watch?v=QRutPH8gYt4)
 - [DynamoDB in 20 Minutes - Intro to NoSQL](https://www.youtube.com/watch?v=ExyktLzX-L8)
-- [Worst Software Bug Ever? #shorts](https://www.youtube.com/watch?v=bFv1sIJY314)
 <!-- YOUTUBE:END -->
