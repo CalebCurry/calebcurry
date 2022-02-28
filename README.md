@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Build a NoSQL API in 28 Minutes! &lpar;Django Rest Framework&rpar;](https://www.youtube.com/watch?v=Ob3j81-UV0c)
+- [Build a Python NoSQL API in 28 Minutes! &lpar;Django Rest Framework&rpar;](https://www.youtube.com/watch?v=Ob3j81-UV0c)
 - [5 Steps to Becoming a Full Stack Web Developer #shorts](https://www.youtube.com/watch?v=N1o76M-f0fk)
 - [My 2022 Programing Languages](https://www.youtube.com/watch?v=Vo73V7sZTNA)
 - [Django REST Framework - Build an API from Scratch](https://www.youtube.com/watch?v=i5JykvxUk_A)
