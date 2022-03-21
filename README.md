@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Django Forms - Save Form Data to Database with Model Forms](https://www.youtube.com/watch?v=6aQoW0TRXBk)
 - [Why I Dont Use Subscripting #shorts](https://www.youtube.com/watch?v=CRwjfT0o9-0)
 - [How to Upload an Image Using Django ImageField &lpar;The RIGHT Way&rpar;](https://www.youtube.com/watch?v=fsVY66QBhwM)
 - [Make Your Website Stand Out With Emojis &lpar;Add Icons to CSS, HTML, and JavaScript&rpar;](https://www.youtube.com/watch?v=Qp1U4U5vhpE)
 - [I Quit Programming &lpar;Avoid Developer Burnout&rpar; #shorts](https://www.youtube.com/watch?v=QYdGem4vCqc)
-- [Should You Quit Coding? &lpar;No Energy Left to Code...&rpar;](https://www.youtube.com/watch?v=fE3xUsF52WE)
 <!-- YOUTUBE:END -->
