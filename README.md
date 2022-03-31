@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [I Learn Redis in 24 Hours](https://www.youtube.com/watch?v=bQZFkNREoMc)
 - [Introduction to Redis Stack - Redis Crash Course in 5 Minutes](https://www.youtube.com/watch?v=PDrqZgAWHo0)
 - [Django Forms - Save Form Data to Database with Model Forms](https://www.youtube.com/watch?v=6aQoW0TRXBk)
 - [Why I Dont Use Subscripting #shorts](https://www.youtube.com/watch?v=CRwjfT0o9-0)
 - [How to Upload an Image Using Django ImageField &lpar;The RIGHT Way&rpar;](https://www.youtube.com/watch?v=fsVY66QBhwM)
-- [Make Your Website Stand Out With Emojis &lpar;Add Icons to CSS, HTML, and JavaScript&rpar;](https://www.youtube.com/watch?v=Qp1U4U5vhpE)
 <!-- YOUTUBE:END -->
