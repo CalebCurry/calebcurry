@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Important Concepts of Back End Web Development - backend python 2](https://www.youtube.com/watch?v=pBYVpULIsY4)
+- [Important Concepts of Back End Web Development - Backend Python 2](https://www.youtube.com/watch?v=pBYVpULIsY4)
 - [Do this to improve your website? #shorts](https://www.youtube.com/watch?v=W6zIq2bB8WI)
 - [What is Backend Web Development? - Backend Python Intro](https://www.youtube.com/watch?v=-1LoyuANW6M)
 - [I Learn Redis in 24 Hours](https://www.youtube.com/watch?v=bQZFkNREoMc)
