@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Development Environment Setup - Backend Python 3](https://www.youtube.com/watch?v=IkmezFYSeLo)
 - [Important Concepts of Back End Web Development - Backend Python 2](https://www.youtube.com/watch?v=pBYVpULIsY4)
 - [Do this to improve your website? #shorts](https://www.youtube.com/watch?v=W6zIq2bB8WI)
 - [What is Backend Web Development? - Backend Python 1 &lpar;Intro&rpar;](https://www.youtube.com/watch?v=-1LoyuANW6M)
 - [I Learn Redis in 24 Hours](https://www.youtube.com/watch?v=bQZFkNREoMc)
-- [Introduction to Redis Stack - Redis Crash Course in 5 Minutes](https://www.youtube.com/watch?v=PDrqZgAWHo0)
 <!-- YOUTUBE:END -->
