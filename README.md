@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Packages and Virtual Environments - Backend Python 4](https://www.youtube.com/watch?v=jDxBPHOg8Gc)
 - [Quick Way to Add Emojis in VS Code #shorts](https://www.youtube.com/watch?v=NPtTw3kwpRk)
 - [Development Environment Setup - Backend Python 3](https://www.youtube.com/watch?v=IkmezFYSeLo)
 - [Important Concepts of Back End Web Development - Backend Python 2](https://www.youtube.com/watch?v=pBYVpULIsY4)
 - [Do this to improve your website? #shorts](https://www.youtube.com/watch?v=W6zIq2bB8WI)
-- [What is Backend Web Development? - Backend Python 1 &lpar;Intro&rpar;](https://www.youtube.com/watch?v=-1LoyuANW6M)
 <!-- YOUTUBE:END -->
