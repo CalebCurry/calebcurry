@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Getting Started with Version Control - Backend Python 7](https://www.youtube.com/watch?v=HmMUKDzFGZ4)
 - [Setting Up Our Django Project - Backend Python 6](https://www.youtube.com/watch?v=JBziaJ3grFc)
 - [Python requirements.txt Explained - Backend Python 5](https://www.youtube.com/watch?v=OS5pPSdwlFs)
 - [Packages and Virtual Environments - Backend Python 4](https://www.youtube.com/watch?v=jDxBPHOg8Gc)
 - [Quick Way to Add Emojis in VS Code #shorts](https://www.youtube.com/watch?v=NPtTw3kwpRk)
-- [Development Environment Setup - Backend Python 3](https://www.youtube.com/watch?v=IkmezFYSeLo)
 <!-- YOUTUBE:END -->
