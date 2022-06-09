@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Understanding Gas and Gwei - Web3 Blockchain Programming Tutorial 5](https://www.youtube.com/watch?v=MuUSz6DpR-I)
 - [Local JavaScript VM vs Injected Web3 - Web3 Blockchain Programming Tutorial 4](https://www.youtube.com/watch?v=NfNkUSR15sA)
 - [Deploying to Ethereum Testnet - Web3 Blockchain Programming Tutorial 3](https://www.youtube.com/watch?v=pBMKYtjQVPg)
 - [How to get Testnet Ether - Web3 Blockchain Programming Tutorial 2](https://www.youtube.com/watch?v=Mt4KQ7MMNlo)
 - [Setting up MetaMask - Web3 Blockchain Programming Tutorial 1](https://www.youtube.com/watch?v=FM1W0ujaiow)
-- [Creating our First View - Backend Python 8](https://www.youtube.com/watch?v=uMqwRFbba3c)
 <!-- YOUTUBE:END -->
