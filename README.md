@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Plotting and Farming - Chia Cryptocurrency Tutorial 3](https://www.youtube.com/watch?v=XpY7GQInSfM)
+- [Chia Setup and Basics - Chia Cryptocurrency Tutorial 2](https://www.youtube.com/watch?v=LrqwTGW37A0)
+- [Introduction to Chia &lpar;XCH&rpar; - Chia Cryptocurrency Tutorial 1](https://www.youtube.com/watch?v=gWx4deR-sis)
 - [Understanding Gas and Gwei - Web3 Blockchain Programming Tutorial 5](https://www.youtube.com/watch?v=MuUSz6DpR-I)
 - [Local JavaScript VM vs Injected Web3 - Web3 Blockchain Programming Tutorial 4](https://www.youtube.com/watch?v=NfNkUSR15sA)
-- [Deploying to Ethereum Testnet - Web3 Blockchain Programming Tutorial 3](https://www.youtube.com/watch?v=pBMKYtjQVPg)
-- [How to get Testnet Ether - Web3 Blockchain Programming Tutorial 2](https://www.youtube.com/watch?v=Mt4KQ7MMNlo)
-- [Setting up MetaMask - Web3 Blockchain Programming Tutorial 1](https://www.youtube.com/watch?v=FM1W0ujaiow)
 <!-- YOUTUBE:END -->
