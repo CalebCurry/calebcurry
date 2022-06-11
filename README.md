@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Logs and Troubleshooting - Chia Cryptocurrency Tutorial 5](https://www.youtube.com/watch?v=c3_neccS3zI)
+- [Command Line Interface &lpar;CLI&rpar; &amp; madMAx Plotter - Chia Cryptocurrency Tutorial 4](https://www.youtube.com/watch?v=KxgvPsbE-ZI)
 - [Plotting and Farming - Chia Cryptocurrency Tutorial 3](https://www.youtube.com/watch?v=XpY7GQInSfM)
 - [Chia Setup and Basics - Chia Cryptocurrency Tutorial 2](https://www.youtube.com/watch?v=LrqwTGW37A0)
 - [Introduction to Chia &lpar;XCH&rpar; - Chia Cryptocurrency Tutorial 1](https://www.youtube.com/watch?v=gWx4deR-sis)
-- [Understanding Gas and Gwei - Web3 Blockchain Programming Tutorial 5](https://www.youtube.com/watch?v=MuUSz6DpR-I)
-- [Local JavaScript VM vs Injected Web3 - Web3 Blockchain Programming Tutorial 4](https://www.youtube.com/watch?v=NfNkUSR15sA)
 <!-- YOUTUBE:END -->
