@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tailwind CSS for React Styling - React Tutorial 6](https://www.youtube.com/watch?v=32StJIZScX4)
 - [Intro to useState Hook - React Tutorial 5](https://www.youtube.com/watch?v=EBuGV_FQFao)
 - [Understand Props in Components - React Tutorial 4](https://www.youtube.com/watch?v=q_8lI83t9Yk)
 - [Our First Component - React Tutorial 3](https://www.youtube.com/watch?v=wUfjJp-DD48)
 - [Create React App Files Explained - React Tutorial 2](https://www.youtube.com/watch?v=VcGAxR1Ui3w)
-- [Intro to React - React Tutorial 1](https://www.youtube.com/watch?v=qp6e0tucEhw)
 <!-- YOUTUBE:END -->
