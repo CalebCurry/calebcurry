@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Create an Active Page Link in Navbar - React Tutorial 18](https://www.youtube.com/watch?v=uFSu6tgYKRY)
 - [Routing with React Router - React Tutorial 17](https://www.youtube.com/watch?v=ipsPhhSrP0s)
 - [Pages and props.children - React Tutorial 16](https://www.youtube.com/watch?v=PcEANR6qspw)
 - [Create a Navbar with Tailwind CSS - React Tutorial 15](https://www.youtube.com/watch?v=2z0R3bb1nJ0)
 - [Pass a Component to Props - React Tutorial 14](https://www.youtube.com/watch?v=JnkyFun88bc)
-- [How to Push to State Array - React Tutorial 13](https://www.youtube.com/watch?v=ShR5Y4yYklo)
 <!-- YOUTUBE:END -->
