@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Fetch an API to Display on Page - React Tutorial 22](https://www.youtube.com/watch?v=_-7n_7DkI28)
 - [useEffect Dependency Array Explained - React Tutorial 21](https://www.youtube.com/watch?v=0H0S6A2leaA)
 - [Intro to useEffect Hook - React Tutorial 20](https://www.youtube.com/watch?v=Rs8TmmZf_yM)
 - [Finishing up Our Header - React Tutorial 19](https://www.youtube.com/watch?v=qPNKsLflc3Y)
 - [Create an Active Page Link in Navbar - React Tutorial 18](https://www.youtube.com/watch?v=uFSu6tgYKRY)
-- [Routing with React Router - React Tutorial 17](https://www.youtube.com/watch?v=ipsPhhSrP0s)
 <!-- YOUTUBE:END -->
