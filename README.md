@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Create a REST API Backend - React Tutorial 29](https://www.youtube.com/watch?v=7k7AUFRfFhg)
 - [Setup a Django Backend &lpar;Full Stack App&rpar; - React Tutorial 28](https://www.youtube.com/watch?v=ntgKH7KUaNM)
 - [Build and Style a Search Component - React Tutorial 27](https://www.youtube.com/watch?v=L6XXua68eEU)
 - [Fetch Response Status Codes and Errors - React Tutorial 26](https://www.youtube.com/watch?v=2pq31FMRC1M)
 - [Create 404 &lpar;Not Found&rpar; Page - React Tutorial 25](https://www.youtube.com/watch?v=X2VPj2obXr0)
-- [Redirect with useNavigate Hook - React Tutorial 24](https://www.youtube.com/watch?v=NvNJtZaDt8E)
 <!-- YOUTUBE:END -->
