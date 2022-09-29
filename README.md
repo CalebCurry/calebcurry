@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Comparing State Objects - React Tutorial 39](https://www.youtube.com/watch?v=fqvfJ9iyRp8)
+- [Dynamic Edit Form to Update API Data - React Tutorial 38](https://www.youtube.com/watch?v=JX36ga1O6xo)
 - [Close Modal on POST Success &lpar;and Add Result to State&rpar; - React Tutorial 37](https://www.youtube.com/watch?v=1Wj5E7NAWdM)
 - [Popup Modal to Add Data &lpar;POST&rpar; -  React Tutorial 36](https://www.youtube.com/watch?v=WmLuPmZKCd4)
 - [DELETE Request with Fetch - React Tutorial 35](https://www.youtube.com/watch?v=46uBhH61SNg)
-- [Code a Full CRUD API &lpar;Create, Read, Update, Delete&rpar; - React Tutorial 34](https://www.youtube.com/watch?v=yzobyHrT9mM)
-- [Return 404 From Backend API &lpar;Django&rpar; - React Tutorial 33](https://www.youtube.com/watch?v=8qIszkFELY0)
 <!-- YOUTUBE:END -->
