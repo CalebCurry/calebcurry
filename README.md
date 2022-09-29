@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Display Form Errors on Page - React Tutorial 40](https://www.youtube.com/watch?v=0YwYEOpq9q0)
 - [Comparing State Objects - React Tutorial 39](https://www.youtube.com/watch?v=fqvfJ9iyRp8)
 - [Dynamic Edit Form to Update API Data - React Tutorial 38](https://www.youtube.com/watch?v=JX36ga1O6xo)
 - [Close Modal on POST Success &lpar;and Add Result to State&rpar; - React Tutorial 37](https://www.youtube.com/watch?v=1Wj5E7NAWdM)
 - [Popup Modal to Add Data &lpar;POST&rpar; -  React Tutorial 36](https://www.youtube.com/watch?v=WmLuPmZKCd4)
-- [DELETE Request with Fetch - React Tutorial 35](https://www.youtube.com/watch?v=46uBhH61SNg)
 <!-- YOUTUBE:END -->
