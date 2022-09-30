@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [localStorage and Bearer Auth Tokens - React Tutorial 44](https://www.youtube.com/watch?v=haeyo55iU6s)
 - [Create a Login Page - React Tutorial 43](https://www.youtube.com/watch?v=S7WgwLwgyFg)
 - [Intro to JWTs and Authentication &lpar;JSON Web Tokens&rpar; - React Tutorial 42](https://www.youtube.com/watch?v=ySD1O0uiISI)
 - [Tailwind CSS Form and Button Styling - React Tutorial 41](https://www.youtube.com/watch?v=_OkvntMYbg8)
 - [Display Form Errors on Page - React Tutorial 40](https://www.youtube.com/watch?v=0YwYEOpq9q0)
-- [Comparing State Objects - React Tutorial 39](https://www.youtube.com/watch?v=fqvfJ9iyRp8)
 <!-- YOUTUBE:END -->
