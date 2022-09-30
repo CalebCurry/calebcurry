@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Intro to JWTs and Authentication &lpar;JSON Web Tokens&rpar; - React Tutorial 42](https://www.youtube.com/watch?v=ySD1O0uiISI)
 - [Tailwind CSS Form and Button Styling - React Tutorial 41](https://www.youtube.com/watch?v=_OkvntMYbg8)
 - [Display Form Errors on Page - React Tutorial 40](https://www.youtube.com/watch?v=0YwYEOpq9q0)
 - [Comparing State Objects - React Tutorial 39](https://www.youtube.com/watch?v=fqvfJ9iyRp8)
 - [Dynamic Edit Form to Update API Data - React Tutorial 38](https://www.youtube.com/watch?v=JX36ga1O6xo)
-- [Close Modal on POST Success &lpar;and Add Result to State&rpar; - React Tutorial 37](https://www.youtube.com/watch?v=1Wj5E7NAWdM)
 <!-- YOUTUBE:END -->
