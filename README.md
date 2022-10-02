@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [User Register Form and API - React Tutorial 49](https://www.youtube.com/watch?v=YkATiMFQU3E)
 - [Auth Refresh Tokens - React Tutorial 48](https://www.youtube.com/watch?v=-GQA05ALfy8)
 - [Create a Logout Button - React Tutorial 47](https://www.youtube.com/watch?v=WeBeVhL1igM)
 - [useContext Hook Introduction - React Tutorial 46](https://www.youtube.com/watch?v=5ianRgE5ByU)
 - [useLocation and useNavigate State &lpar;Redirect to Previous Page on Login&rpar; - React Tutorial 45](https://www.youtube.com/watch?v=i6A5iEmbCJM)
-- [localStorage and Bearer Auth Tokens - React Tutorial 44](https://www.youtube.com/watch?v=haeyo55iU6s)
 <!-- YOUTUBE:END -->
