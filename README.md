@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Default Values and Nested Data with Destructuring - React Tutorial 52](https://www.youtube.com/watch?v=DfEYCZMFOuI)
 - [Destructuring Explained &lpar;Custom Hook Parameters and Return Data&rpar; - React Tutorial 51](https://www.youtube.com/watch?v=aj4Z0qzzpNM)
 - [Create a Custom Hook &lpar;useFetch&rpar; - React Tutorial 50](https://www.youtube.com/watch?v=YpyhVFZSTzc)
 - [User Register Form and API - React Tutorial 49](https://www.youtube.com/watch?v=YkATiMFQU3E)
 - [Auth Refresh Tokens - React Tutorial 48](https://www.youtube.com/watch?v=-GQA05ALfy8)
-- [Create a Logout Button - React Tutorial 47](https://www.youtube.com/watch?v=WeBeVhL1igM)
 <!-- YOUTUBE:END -->
