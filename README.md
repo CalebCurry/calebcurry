@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript and Axios Intro - React Tutorial 54](https://www.youtube.com/watch?v=_8YaUjcL0sw)
 - [Custom Hook on Button Click &lpar;onClick POST with useFetch&rpar; - React Tutorial 53](https://www.youtube.com/watch?v=M6vLKxaOWZw)
 - [Default Values and Nested Data with Destructuring - React Tutorial 52](https://www.youtube.com/watch?v=DfEYCZMFOuI)
 - [Destructuring Explained &lpar;Custom Hook Parameters and Return Data&rpar; - React Tutorial 51](https://www.youtube.com/watch?v=aj4Z0qzzpNM)
 - [Create a Custom Hook &lpar;useFetch&rpar; - React Tutorial 50](https://www.youtube.com/watch?v=YpyhVFZSTzc)
-- [User Register Form and API - React Tutorial 49](https://www.youtube.com/watch?v=YkATiMFQU3E)
 <!-- YOUTUBE:END -->
