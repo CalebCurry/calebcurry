@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Aggregate Data with map and reduce - React Tutorial 60](https://www.youtube.com/watch?v=NnXQX4sYcQk)
 - [Calculate Crypto Values - React Tutorial 59](https://www.youtube.com/watch?v=nqMjpaCCLhs)
 - [Dynamic Chart with Multiple Drop Downs &lpar;Chart.js&rpar; - React Tutorial 58](https://www.youtube.com/watch?v=MNRrrHhPj10)
 - [Crypto Price Chart with Chart.js - React Tutorial 57](https://www.youtube.com/watch?v=ssUzV0bIPB8)
 - [Generate Drop Down List from API - React Tutorial 56](https://www.youtube.com/watch?v=Mnz_Qpl5Q_s)
-- [TypeScript Components - React Tutorial 55](https://www.youtube.com/watch?v=KmM3cHWdguc)
 <!-- YOUTUBE:END -->
