@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [GraphQL API and Apollo Intro - React Tutorial 62](https://www.youtube.com/watch?v=lRKWJtzqwcQ)
 - [Pie Chart with Chart.js &lpar;react-chartjs-2&rpar; - React Tutorial 61](https://www.youtube.com/watch?v=6ajY1fJgbVM)
 - [Aggregate Data with map and reduce - React Tutorial 60](https://www.youtube.com/watch?v=NnXQX4sYcQk)
 - [Calculate Crypto Values - React Tutorial 59](https://www.youtube.com/watch?v=nqMjpaCCLhs)
 - [Dynamic Chart with Multiple Drop Downs &lpar;Chart.js&rpar; - React Tutorial 58](https://www.youtube.com/watch?v=MNRrrHhPj10)
-- [Crypto Price Chart with Chart.js - React Tutorial 57](https://www.youtube.com/watch?v=ssUzV0bIPB8)
 <!-- YOUTUBE:END -->
