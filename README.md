@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [GraphQL Nested Data - React Tutorial 67](https://www.youtube.com/watch?v=bXFpEOBzMgQ)
 - [Mutations with useMutation Apollo Client - React Tutorial 66](https://www.youtube.com/watch?v=cmHIsAHxYas)
 - [GraphQL Mutations and Parameters in Graphene - React Tutorial 65](https://www.youtube.com/watch?v=PPkFML0_P-o)
 - [Consume GraphQL API in Frontend - React Tutorial 64](https://www.youtube.com/watch?v=fbyMvE9uJ4w)
 - [GraphQL in Django Backend &lpar;Graphene&rpar; - React Tutorial 63](https://www.youtube.com/watch?v=zzUcL7sOQEM)
-- [GraphQL API and Apollo Intro - React Tutorial 62](https://www.youtube.com/watch?v=lRKWJtzqwcQ)
 <!-- YOUTUBE:END -->
