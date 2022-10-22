@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Add to GraphQL List and refetchQueries - React Tutorial 70](https://www.youtube.com/watch?v=9bk1K9vy5Eg)
 - [Mutation for Nested Data &lpar;Backend&rpar; - React Tutorial 69](https://www.youtube.com/watch?v=U9lqIkcl5t0)
 - [Build a Nested Order Form Component - React Tutorial 68](https://www.youtube.com/watch?v=wgt74cUB95k)
 - [GraphQL Nested Data - React Tutorial 67](https://www.youtube.com/watch?v=bXFpEOBzMgQ)
 - [Mutations with useMutation Apollo Client - React Tutorial 66](https://www.youtube.com/watch?v=cmHIsAHxYas)
-- [GraphQL Mutations and Parameters in Graphene - React Tutorial 65](https://www.youtube.com/watch?v=PPkFML0_P-o)
 <!-- YOUTUBE:END -->
