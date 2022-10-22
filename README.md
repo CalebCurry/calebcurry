@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Intro to Next.js Static Site Generation + Server Side Rendering - React Tutorial 71](https://www.youtube.com/watch?v=5kgCFvyk7VI)
 - [Add to GraphQL List and refetchQueries - React Tutorial 70](https://www.youtube.com/watch?v=9bk1K9vy5Eg)
 - [Mutation for Nested Data &lpar;Backend&rpar; - React Tutorial 69](https://www.youtube.com/watch?v=U9lqIkcl5t0)
 - [Build a Nested Order Form Component - React Tutorial 68](https://www.youtube.com/watch?v=wgt74cUB95k)
 - [GraphQL Nested Data - React Tutorial 67](https://www.youtube.com/watch?v=bXFpEOBzMgQ)
-- [Mutations with useMutation Apollo Client - React Tutorial 66](https://www.youtube.com/watch?v=cmHIsAHxYas)
 <!-- YOUTUBE:END -->
