@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Call an API with Axios in getStaticProps - Next.js - React 74](https://www.youtube.com/watch?v=lysBSpayTEA)
 - [Static Site Generation with getStaticProps - Next.js - React 73](https://www.youtube.com/watch?v=jTYp49jxgsA)
 - [Routing and Parameters - Next.js - React Tutorial 72](https://www.youtube.com/watch?v=WSAWla66zrM)
 - [Intro to Next.js Static Site Generation + Server Side Rendering - React Tutorial 71](https://www.youtube.com/watch?v=5kgCFvyk7VI)
 - [Add to GraphQL List and refetchQueries - React Tutorial 70](https://www.youtube.com/watch?v=9bk1K9vy5Eg)
-- [Mutation for Nested Data &lpar;Backend&rpar; - React Tutorial 69](https://www.youtube.com/watch?v=U9lqIkcl5t0)
 <!-- YOUTUBE:END -->
