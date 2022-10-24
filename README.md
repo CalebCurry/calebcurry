@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Incremental Static Regeneration - Next.js - React 75](https://www.youtube.com/watch?v=KDvrNIdtj_8)
 - [Call an API with Axios in getStaticProps - Next.js - React 74](https://www.youtube.com/watch?v=lysBSpayTEA)
 - [Static Site Generation with getStaticProps - Next.js - React 73](https://www.youtube.com/watch?v=jTYp49jxgsA)
 - [Routing and Parameters - Next.js - React Tutorial 72](https://www.youtube.com/watch?v=WSAWla66zrM)
 - [Intro to Next.js Static Site Generation + Server Side Rendering - React Tutorial 71](https://www.youtube.com/watch?v=5kgCFvyk7VI)
-- [Add to GraphQL List and refetchQueries - React Tutorial 70](https://www.youtube.com/watch?v=9bk1K9vy5Eg)
 <!-- YOUTUBE:END -->
