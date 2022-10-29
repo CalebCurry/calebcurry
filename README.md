@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [On Demand Revalidation in Next.js - React Tutorial 84](https://www.youtube.com/watch?v=XaAVvlx23S0)
 - [POST a New Document &lpar;MongoDB API&rpar; - Next.js - React Tutorial 83](https://www.youtube.com/watch?v=0ySRhd7CPug)
 - [Details API by Object ID &lpar;MongoDB&rpar; - Next.js - React Tutorial 82](https://www.youtube.com/watch?v=buMP6l8ehSo)
 - [Create a GET API with MongoDB - Next.js - React Tutorial 81](https://www.youtube.com/watch?v=4HyffA5JyoY)
 - [MongoDB findOne by ObjectID - React Tutorial 80](https://www.youtube.com/watch?v=RUeWg5aEc24)
-- [Connect to MongoDB - React Tutorial 79](https://www.youtube.com/watch?v=t3UjWbh7mqI)
 <!-- YOUTUBE:END -->
