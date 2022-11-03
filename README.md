@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Data Grid with Material UI - React Tutorial 95](https://www.youtube.com/watch?v=glTxYQfgTBk)
 - [Navigation and Active Link Highlighting - Material UI - React Tutorial 94](https://www.youtube.com/watch?v=LEbktaYL1hE)
 - [Create a Website Theme - Material UI - React Tutorial 93](https://www.youtube.com/watch?v=3EIKAijo_aE)
 - [Icons and Tooltips in Material UI - React Tutorial 92](https://www.youtube.com/watch?v=ZaqXQwS0BbU)
 - [Intro to Material UI - React Tutorial 91](https://www.youtube.com/watch?v=YlBGGYrVtrw)
-- [React Query with Next.js Static Site Generation &lpar;SSG&rpar; - React Tutorial 90](https://www.youtube.com/watch?v=PyjEnOumqg8)
 <!-- YOUTUBE:END -->
