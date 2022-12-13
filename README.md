@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Why Learn C++? An Introduction - C++ Tutorial 1](https://www.youtube.com/watch?v=gXz1N0zPzOQ)
 - [React JS Full Course &lpar;20 HOUR All-in-One Tutorial for Beginners&rpar; - PART 1!](https://www.youtube.com/watch?v=x_x5LkW6IXs)
 - [Where do I go from Here? 10 Things to Learn - React Tutorial Series Conclusion](https://www.youtube.com/watch?v=gGdxtPF4GMg)
 - [Deploy a Next.js Application with Vercel - React Tutorial 100](https://www.youtube.com/watch?v=Ggmjd5ZlkEY)
 - [Adding TypeScript Types to Our Next.js Page - React Tutorial 99](https://www.youtube.com/watch?v=KB6C6bBqJ_M)
-- [API for nested Objects and MongoDb ObjectId - React Tutorial 98](https://www.youtube.com/watch?v=2x5E5AT2sRg)
 <!-- YOUTUBE:END -->
