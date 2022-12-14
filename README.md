@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [User Input with getchar&lpar;&rpar; - C++ Tutorial 6](https://www.youtube.com/watch?v=5GY_C_LDLX8)
 - [Comparing char with tolower - C++ Tutorial 5](https://www.youtube.com/watch?v=Eec-Ae9-Jao)
 - [if Statement and Comparisons - C++ Tutorial 4](https://www.youtube.com/watch?v=LIVIbtwi2ac)
 - [using namespace std &lpar;Potential Problems&rpar; - C++ Tutorial 3](https://www.youtube.com/watch?v=LrpUG9vj4ks)
 - [User Input and Output - C++ Tutorial 2](https://www.youtube.com/watch?v=2OFaPi641WY)
-- [Why Learn C++? An Introduction - C++ Tutorial 1](https://www.youtube.com/watch?v=gXz1N0zPzOQ)
 <!-- YOUTUBE:END -->
