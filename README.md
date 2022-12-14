@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Comparing char with tolower - C++ Tutorial 5](https://www.youtube.com/watch?v=Eec-Ae9-Jao)
 - [if Statement and Comparisons - C++ Tutorial 4](https://www.youtube.com/watch?v=LIVIbtwi2ac)
 - [using namespace std &lpar;Potential Problems&rpar; - C++ Tutorial 3](https://www.youtube.com/watch?v=LrpUG9vj4ks)
 - [User Input and Output - C++ Tutorial 2](https://www.youtube.com/watch?v=2OFaPi641WY)
 - [Why Learn C++? An Introduction - C++ Tutorial 1](https://www.youtube.com/watch?v=gXz1N0zPzOQ)
-- [React JS Full Course &lpar;20 HOUR All-in-One Tutorial for Beginners&rpar; - PART 1!](https://www.youtube.com/watch?v=x_x5LkW6IXs)
 <!-- YOUTUBE:END -->
