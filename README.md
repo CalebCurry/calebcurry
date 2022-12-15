@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [booleans &lpar;The Truth Exposed&rpar; - C++ Tutorial 10](https://www.youtube.com/watch?v=DggYlm8uqjA)
 - [Logical Operators - C++ Tutorial 9](https://www.youtube.com/watch?v=Pn9Q1cr2ZdQ)
 - [Nested if Statements - C++ Tutorial 8](https://www.youtube.com/watch?v=AAbFlEQ4FKE)
 - [else Clause and else if - C++ Tutorial 7](https://www.youtube.com/watch?v=idjWFMYNCHc)
 - [User Input with getchar&lpar;&rpar; - C++ Tutorial 6](https://www.youtube.com/watch?v=5GY_C_LDLX8)
-- [Comparing char with tolower - C++ Tutorial 5](https://www.youtube.com/watch?v=Eec-Ae9-Jao)
 <!-- YOUTUBE:END -->
