@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Intro to Classes and Objects &lpar;Object Oriented Programming&rpar; - C++ Tutorial 26](https://www.youtube.com/watch?v=1fYUCXXhqsE)
 - [Reading and Writing to Files &lpar;ifstream and ofstream&rpar; - C++ Tutorial 25](https://www.youtube.com/watch?v=Cz4fl-TUjVk)
 - [Intro to Deques &lpar;Double Ended Queue&rpar; - C++ Tutorial 24](https://www.youtube.com/watch?v=6XENFGIgEjU)
 - [Function Templates and Template Overloads - C++ Tutorial 23](https://www.youtube.com/watch?v=mLEux0Ln614)
 - [Function Overloading - C++ Tutorial 22](https://www.youtube.com/watch?v=VZUAu_AN6Ec)
-- [Passing Arrays and Vectors to Functions - C++ Tutorial 21](https://www.youtube.com/watch?v=HOERSHJSi7Y)
 <!-- YOUTUBE:END -->
