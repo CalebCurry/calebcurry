@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [for Loops vs While Loops - C++ Tutorial 17](https://www.youtube.com/watch?v=1ZhYkGe_fOM)
+- [Multiple C++ File Compilation - C++ Tutorial 16](https://www.youtube.com/watch?v=NiQGf25sHys)
 - [Random Number Generation - C++ Tutorial 15](https://www.youtube.com/watch?v=wzFF1DJ0OIU)
 - [While Loop with Guessing Games - C++ Tutorial 14](https://www.youtube.com/watch?v=Y-FdoJ3Zdcc)
 - [Function Returns and Arguments - C++ Tutorial 13](https://www.youtube.com/watch?v=jEhpPM6oiLg)
-- [Defining a Function Prototype and Definition - C++ Tutorial 12](https://www.youtube.com/watch?v=s5K7EPvuI_k)
-- [Switch Statement - C++ Tutorial 11](https://www.youtube.com/watch?v=r2pWRvxhTqk)
 <!-- YOUTUBE:END -->
