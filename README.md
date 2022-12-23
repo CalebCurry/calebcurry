@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Arrays and Looping - C++ Tutorial 19](https://www.youtube.com/watch?v=FaZfCuNpdg8)
+- [Decrementing for Loop Count Down - C++ Tutorial 18](https://www.youtube.com/watch?v=FmMJMamULno)
 - [for Loops vs While Loops - C++ Tutorial 17](https://www.youtube.com/watch?v=1ZhYkGe_fOM)
 - [Multiple C++ File Compilation - C++ Tutorial 16](https://www.youtube.com/watch?v=NiQGf25sHys)
 - [Random Number Generation - C++ Tutorial 15](https://www.youtube.com/watch?v=wzFF1DJ0OIU)
-- [While Loop with Guessing Games - C++ Tutorial 14](https://www.youtube.com/watch?v=Y-FdoJ3Zdcc)
-- [Function Returns and Arguments - C++ Tutorial 13](https://www.youtube.com/watch?v=jEhpPM6oiLg)
 <!-- YOUTUBE:END -->
