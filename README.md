@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Function Templates and Template Overloads - C++ Tutorial 23](https://www.youtube.com/watch?v=mLEux0Ln614)
+- [Function Overloading - C++ Tutorial 22](https://www.youtube.com/watch?v=VZUAu_AN6Ec)
+- [Passing Arrays and Vectors to Functions - C++ Tutorial 21](https://www.youtube.com/watch?v=HOERSHJSi7Y)
 - [Vectors - C++ Tutorial 20](https://www.youtube.com/watch?v=dQG41m6vf3A)
 - [Arrays and Looping - C++ Tutorial 19](https://www.youtube.com/watch?v=FaZfCuNpdg8)
-- [Decrementing for Loop Count Down - C++ Tutorial 18](https://www.youtube.com/watch?v=FmMJMamULno)
-- [for Loops vs While Loops - C++ Tutorial 17](https://www.youtube.com/watch?v=1ZhYkGe_fOM)
-- [Multiple C++ File Compilation - C++ Tutorial 16](https://www.youtube.com/watch?v=NiQGf25sHys)
 <!-- YOUTUBE:END -->
