@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Stacks and Queues Shopping List Exercise - C++ Tutorial 30](https://www.youtube.com/watch?v=6Ea980Vg8UA)
+- [Static Methods - C++ Tutorial 29](https://www.youtube.com/watch?v=gDdJ-kjH0ZU)
+- [Custom Constructors - C++ Tutorial 28](https://www.youtube.com/watch?v=-XXjalwucio)
+- [Reading and Writing Custom Object Collection from File - C++Tutorial 27](https://www.youtube.com/watch?v=drdqjDwV_F4)
 - [Intro to Classes and Objects &lpar;Object Oriented Programming&rpar; - C++ Tutorial 26](https://www.youtube.com/watch?v=1fYUCXXhqsE)
-- [Reading and Writing to Files &lpar;ifstream and ofstream&rpar; - C++ Tutorial 25](https://www.youtube.com/watch?v=Cz4fl-TUjVk)
-- [Intro to Deques &lpar;Double Ended Queue&rpar; - C++ Tutorial 24](https://www.youtube.com/watch?v=6XENFGIgEjU)
-- [Function Templates and Template Overloads - C++ Tutorial 23](https://www.youtube.com/watch?v=mLEux0Ln614)
-- [Function Overloading - C++ Tutorial 22](https://www.youtube.com/watch?v=VZUAu_AN6Ec)
 <!-- YOUTUBE:END -->
