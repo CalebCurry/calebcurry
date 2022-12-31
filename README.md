@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Create a Node.js package.json &lpar;How to Create a Project&rpar; - Node.js Tutorial 3](https://www.youtube.com/watch?v=Dh_vWGqQw-Q)
+- [Create and Run a Node.js Script - Node.js Tutorial 2](https://www.youtube.com/watch?v=xM0d3LcO1jQ)
+- [Introduction and Getting Started - Node.js Tutorial 1](https://www.youtube.com/watch?v=PCJ5cOLROf8)
 - [Stacks and Queues Shopping List Exercise - C++ Tutorial 30](https://www.youtube.com/watch?v=6Ea980Vg8UA)
 - [Static Methods - C++ Tutorial 29](https://www.youtube.com/watch?v=gDdJ-kjH0ZU)
-- [Custom Constructors - C++ Tutorial 28](https://www.youtube.com/watch?v=-XXjalwucio)
-- [Reading and Writing Custom Object Collection from File - C++Tutorial 27](https://www.youtube.com/watch?v=drdqjDwV_F4)
-- [Intro to Classes and Objects &lpar;Object Oriented Programming&rpar; - C++ Tutorial 26](https://www.youtube.com/watch?v=1fYUCXXhqsE)
 <!-- YOUTUBE:END -->
