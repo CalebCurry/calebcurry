@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Setup Git and Github for Node - Node.js Tutorial 5](https://www.youtube.com/watch?v=UwpnyY_bDvU)
+- [Installing Dependencies with NPM &lpar;Node Package Manager&rpar; - Node.js Tutorial 4](https://www.youtube.com/watch?v=oQSlatfD_gw)
 - [Create a Node.js package.json &lpar;How to Create a Project&rpar; - Node.js Tutorial 3](https://www.youtube.com/watch?v=Dh_vWGqQw-Q)
 - [Create and Run a Node.js Script - Node.js Tutorial 2](https://www.youtube.com/watch?v=xM0d3LcO1jQ)
 - [Introduction and Getting Started - Node.js Tutorial 1](https://www.youtube.com/watch?v=PCJ5cOLROf8)
-- [Stacks and Queues Shopping List Exercise - C++ Tutorial 30](https://www.youtube.com/watch?v=6Ea980Vg8UA)
-- [Static Methods - C++ Tutorial 29](https://www.youtube.com/watch?v=gDdJ-kjH0ZU)
 <!-- YOUTUBE:END -->
