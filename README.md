@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Getting Started with Express - Node.js Tutorial 6](https://www.youtube.com/watch?v=EGC90DxUxYQ)
 - [How to Setup Git and Github for Node - Node.js Tutorial 5](https://www.youtube.com/watch?v=UwpnyY_bDvU)
 - [Installing Dependencies with NPM &lpar;Node Package Manager&rpar; - Node.js Tutorial 4](https://www.youtube.com/watch?v=oQSlatfD_gw)
 - [Create a Node.js package.json &lpar;How to Create a Project&rpar; - Node.js Tutorial 3](https://www.youtube.com/watch?v=Dh_vWGqQw-Q)
 - [Create and Run a Node.js Script - Node.js Tutorial 2](https://www.youtube.com/watch?v=xM0d3LcO1jQ)
-- [Introduction and Getting Started - Node.js Tutorial 1](https://www.youtube.com/watch?v=PCJ5cOLROf8)
 <!-- YOUTUBE:END -->
