@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Updating Data with PUT Method - Node.js Tutorial 18](https://www.youtube.com/watch?v=E5axe3ea2vU)
+- [GET API for MongoDB ObjectId - Node.js Tutorial 17](https://www.youtube.com/watch?v=78-ZZ6gY5Oo)
 - [Parameterized URLs and Query String Parameters - Node.js Tutorial 16](https://www.youtube.com/watch?v=uz10jlwVMNM)
 - [POST Request to Save Data - Node.js Tutorial 15](https://www.youtube.com/watch?v=4qTAPKhTItU)
 - [Reading Data from MongoDB with Mongoose - Node.js Tutorial 14](https://www.youtube.com/watch?v=9YxgKmO-Rlw)
-- [Schemas and Models in Mongoose - Node.js Tutorial 13](https://www.youtube.com/watch?v=ChiC7zhhQzQ)
-- [Environment Variables and dotenv - Node.js Tutorial 12](https://www.youtube.com/watch?v=EOq6KU2BOYY)
 <!-- YOUTUBE:END -->
