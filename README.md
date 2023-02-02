@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [React Frontend with Node Backend - Node.js Tutorial 20](https://www.youtube.com/watch?v=64PnwO2RBGI)
-- [Remove Data with DELETE Method - Node.js Tutorial 19](https://www.youtube.com/watch?v=6Mrh1spmmK8)
-- [Updating Data with PUT Method - Node.js Tutorial 18](https://www.youtube.com/watch?v=E5axe3ea2vU)
-- [GET API for MongoDB ObjectId - Node.js Tutorial 17](https://www.youtube.com/watch?v=78-ZZ6gY5Oo)
-- [Parameterized URLs and Query String Parameters - Node.js Tutorial 16](https://www.youtube.com/watch?v=uz10jlwVMNM)
+- [Add TypeScript to Node.js Project - Node.js Tutorial 26](https://www.youtube.com/watch?v=nEq7gI5U7Co)
+- [Get Document by Nested Data ID - Node.js Tutorial 25](https://www.youtube.com/watch?v=YmD-sIuxiSU)
+- [Updating Nested Data - Node.js Tutorial 24](https://www.youtube.com/watch?v=aA_y3ewrnpI)
+- [Patch with findOneAndUpdate - Node.js Tutorial 23](https://www.youtube.com/watch?v=OcWPaA-sWD8)
+- [Working with Nested Objects - Node.js Tutorial 22](https://www.youtube.com/watch?v=pURXNj8_Ea8)
 <!-- YOUTUBE:END -->
