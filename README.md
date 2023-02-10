@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [C++ Full Course &lpar;FOUR HOUR All-in-One Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=9Myk2vcK8s8)
 - [Conclusion and Next Steps - Node.js Tutorial 30](https://www.youtube.com/watch?v=sW1zu55vrSQ)
 - [TypeScript Interfaces for Mongoose - Node.js Tutorial 29](https://www.youtube.com/watch?v=e9S0QiM4qdw)
 - [Typed Parameters in TypeScript - Node.js Tutorial 28](https://www.youtube.com/watch?v=mTuBOoq8sBE)
 - [TypeScript Imports and Exports - Node.js Tutorial 27](https://www.youtube.com/watch?v=4Eb8EDRpwk0)
-- [Add TypeScript to Node.js Project - Node.js Tutorial 26](https://www.youtube.com/watch?v=nEq7gI5U7Co)
 <!-- YOUTUBE:END -->
