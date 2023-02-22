@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Node.JS Full Course &lpar;THREE HOUR All-in-One Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=pkg0J6lpKT4)
 - [React JS Full Course &lpar;20 HOUR All-in-One Tutorial for Beginners&rpar; - PART 2!](https://www.youtube.com/watch?v=OhUKr1Acm40)
 - [C++ Full Course &lpar;FOUR HOUR All-in-One Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=9Myk2vcK8s8)
 - [Conclusion and Next Steps - Node.js Tutorial 30](https://www.youtube.com/watch?v=sW1zu55vrSQ)
 - [TypeScript Interfaces for Mongoose - Node.js Tutorial 29](https://www.youtube.com/watch?v=e9S0QiM4qdw)
-- [Typed Parameters in TypeScript - Node.js Tutorial 28](https://www.youtube.com/watch?v=mTuBOoq8sBE)
 <!-- YOUTUBE:END -->
