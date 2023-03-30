@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Run C++ and C in Visual Studio Code | Mac and Windows!](https://www.youtube.com/watch?v=3-9sObAg6R0)
 - [C vs C++ | Which Should you Learn?](https://www.youtube.com/watch?v=APH5VK6FCtg)
 - [Node.JS Full Course &lpar;THREE HOUR All-in-One Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=pkg0J6lpKT4)
 - [React JS Full Course &lpar;20 HOUR All-in-One Tutorial for Beginners&rpar; - PART 2!](https://www.youtube.com/watch?v=OhUKr1Acm40)
 - [C++ Full Course &lpar;FOUR HOUR All-in-One Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=9Myk2vcK8s8)
-- [Conclusion and Next Steps - Node.js Tutorial 30](https://www.youtube.com/watch?v=sW1zu55vrSQ)
 <!-- YOUTUBE:END -->
