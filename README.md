@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [C++ in VSCode? Here is how #cpp #vscode](https://www.youtube.com/watch?v=lM3-T06Q6Yo)
 - [Structs in C | What you Need to Know](https://www.youtube.com/watch?v=IAvfAC4H_0s)
 - [C Strings in 20 Minutes | C and C++](https://www.youtube.com/watch?v=Z2eSSOrBHnA)
 - [C vs C++ | Which Should you Learn? #coding #c #software](https://www.youtube.com/watch?v=NJB7IvQvYtg)
 - [Run C++ and C in Visual Studio Code | Mac and Windows!](https://www.youtube.com/watch?v=3-9sObAg6R0)
-- [C vs C++ | Which Should you Learn?](https://www.youtube.com/watch?v=APH5VK6FCtg)
 <!-- YOUTUBE:END -->
