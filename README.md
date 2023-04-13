@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [C++ Object Oriented Programming Crash Course - Introduction + Full Tutorial](https://www.youtube.com/watch?v=0NwsayeOsd4)
 - [Class vs Struct | C++ &lpar;What&#39;s the Difference?&rpar;](https://www.youtube.com/watch?v=TeHlfLf9v1k)
 - [C++ in VSCode? Here is how #cpp #vscode](https://www.youtube.com/watch?v=lM3-T06Q6Yo)
 - [Structs in C | What you Need to Know](https://www.youtube.com/watch?v=IAvfAC4H_0s)
 - [C Strings in 20 Minutes | C and C++](https://www.youtube.com/watch?v=Z2eSSOrBHnA)
-- [C vs C++ | Which Should you Learn? #coding #c #software](https://www.youtube.com/watch?v=NJB7IvQvYtg)
 <!-- YOUTUBE:END -->
