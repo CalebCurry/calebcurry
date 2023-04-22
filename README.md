@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Struct vs Class? C++](https://www.youtube.com/watch?v=V_gTHOk3PjU)
 - [Should You Learn C++? &lpar;Will Rust Kill C++?&rpar;](https://www.youtube.com/watch?v=_F4ZB0tiqsE)
 - [My Extreme Productivity System &lpar;Learn ANY Programming Language&rpar;](https://www.youtube.com/watch?v=906ADGvmbRE)
 - [Make coding easier with this one trick](https://www.youtube.com/watch?v=Ghf2bi3h7yA)
 - [C++ Object Oriented Programming Crash Course - Introduction + Full Tutorial](https://www.youtube.com/watch?v=0NwsayeOsd4)
-- [Class vs Struct | C++ &lpar;What&#39;s the Difference?&rpar;](https://www.youtube.com/watch?v=TeHlfLf9v1k)
 <!-- YOUTUBE:END -->
