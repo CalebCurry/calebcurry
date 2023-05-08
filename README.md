@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Dynamic Memory with Malloc - Everything you Need to Know](https://www.youtube.com/watch?v=GER0MmUdQbI)
 - [How to increase productivity - Learn code twice as fast](https://www.youtube.com/watch?v=u4NrReheAz4)
 - [How I fixed My Mindset &lpar;This Changed My Life&rpar;](https://www.youtube.com/watch?v=jViX0xWs-Y8)
 - [Smart Pointers in C++ &lpar;Stop Using new?&rpar;](https://www.youtube.com/watch?v=x_eHJmdGQ_4)
 - [You need to understand this in C++](https://www.youtube.com/watch?v=zXIjhcSgCQw)
-- [C++ Pointers to Pointers - Finally Understand Double Pointers](https://www.youtube.com/watch?v=9aqdsVWuWf8)
 <!-- YOUTUBE:END -->
