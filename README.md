@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Learning C++? Avoid these Beginner Mistakes...](https://www.youtube.com/watch?v=7FIJFBJsxuc)
 - [How to format C++ code so it doesn&#39;t look like trash](https://www.youtube.com/watch?v=MfOxPGMoixM)
 - [Stop Mental Clickbait - How to Improve Focus and Stop Distractions](https://www.youtube.com/watch?v=0XhIore_6Hw)
 - [Dynamic Memory with Malloc - Everything you Need to Know](https://www.youtube.com/watch?v=GER0MmUdQbI)
 - [How to increase productivity - Learn code twice as fast](https://www.youtube.com/watch?v=u4NrReheAz4)
-- [How I fixed My Mindset &lpar;This Changed My Life&rpar;](https://www.youtube.com/watch?v=jViX0xWs-Y8)
 <!-- YOUTUBE:END -->
