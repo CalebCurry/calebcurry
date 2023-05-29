@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Writing Code with AI in VSCode &lpar;GitHub Copilot&rpar;](https://www.youtube.com/watch?v=-UylboAAk8g)
 - [Why you&#39;re not happy with your life](https://www.youtube.com/watch?v=R28rJm7_uVk)
 - [I Built a C++ Game with ChatGPT](https://www.youtube.com/watch?v=gxI66T58qMA)
 - [Learning C++? Avoid these Beginner Mistakes...](https://www.youtube.com/watch?v=7FIJFBJsxuc)
 - [How to format C++ code so it doesn&#39;t look like trash](https://www.youtube.com/watch?v=MfOxPGMoixM)
-- [Stop Mental Clickbait - How to Improve Focus and Stop Distractions](https://www.youtube.com/watch?v=0XhIore_6Hw)
 <!-- YOUTUBE:END -->
