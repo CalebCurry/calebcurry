@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [From Zero to Software Mastery &lpar;Step-by-step&rpar;](https://www.youtube.com/watch?v=pjt3IKnuHyI)
 - [I Got Laid Off...](https://www.youtube.com/watch?v=i2JVQdLnkAY)
 - [C and C++ 20 Week Bootcamp Open Now! #code #bootcamp](https://www.youtube.com/watch?v=MvbPQ-alj8Q)
 - [NEW COURSE! C and C++ Mastery Bootcamp](https://www.youtube.com/watch?v=n40T0zZcEdQ)
 - [3 C++ Pitfalls to Avoid](https://www.youtube.com/watch?v=IF5D_NQqgrs)
-- [Writing Code with AI in VSCode &lpar;GitHub Copilot&rpar;](https://www.youtube.com/watch?v=-UylboAAk8g)
 <!-- YOUTUBE:END -->
