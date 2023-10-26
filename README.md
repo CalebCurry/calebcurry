@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [I got a Job!](https://www.youtube.com/watch?v=f4efmkmVskk)
 - [Make $70K+ Minimum as a new Developer](https://www.youtube.com/watch?v=G3JHd2JimWI)
 - [From Zero to Software Mastery &lpar;Step-by-Step&rpar;](https://www.youtube.com/watch?v=pjt3IKnuHyI)
 - [I Got Laid Off...](https://www.youtube.com/watch?v=i2JVQdLnkAY)
 - [C and C++ 20 Week Bootcamp Open Now! #code #bootcamp](https://www.youtube.com/watch?v=MvbPQ-alj8Q)
-- [NEW COURSE! C and C++ Mastery Bootcamp](https://www.youtube.com/watch?v=n40T0zZcEdQ)
 <!-- YOUTUBE:END -->
