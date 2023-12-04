@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Elixir Programming Introduction - Complete Tutorial!](https://www.youtube.com/watch?v=-lgtb-YSUWE)
 - [Why You&#39;re not Getting Hired &lpar;How to Land a Job in Software&rpar;](https://www.youtube.com/watch?v=yF5n7epVVn4)
 - [I got a Job!](https://www.youtube.com/watch?v=f4efmkmVskk)
 - [Make $70K+ Minimum as a new Developer](https://www.youtube.com/watch?v=G3JHd2JimWI)
 - [From Zero to Software Mastery &lpar;Step-by-Step&rpar;](https://www.youtube.com/watch?v=pjt3IKnuHyI)
-- [I Got Laid Off...](https://www.youtube.com/watch?v=i2JVQdLnkAY)
 <!-- YOUTUBE:END -->
