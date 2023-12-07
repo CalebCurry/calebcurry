@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [best VSCode extension?](https://www.youtube.com/watch?v=zbWwgkzB5KA)
 - [Phoenix Framework REST API Crash Course - Introduction + Full Elixir API Tutorial](https://www.youtube.com/watch?v=9xaN44PNxps)
 - [ChatGPT builds game](https://www.youtube.com/watch?v=0qF_jmCCI9g)
 - [Learn GitHub Copilot AI in 60 seconds #ai #artificialintelligence](https://www.youtube.com/watch?v=dTVbrhxu72A)
 - [Elixir Programming Introduction - Complete Tutorial!](https://www.youtube.com/watch?v=-lgtb-YSUWE)
-- [Why You&#39;re not Getting Hired &lpar;How to Land a Job in Software&rpar;](https://www.youtube.com/watch?v=yF5n7epVVn4)
 <!-- YOUTUBE:END -->
