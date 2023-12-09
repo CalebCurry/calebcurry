@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [software career is best](https://www.youtube.com/watch?v=VkC2GrF-QHI)
 - [Object Oriented Programming in Java - All-in-One Tutorial Series!](https://www.youtube.com/watch?v=Af3s3KsxStY)
 - [debug in VSCode](https://www.youtube.com/watch?v=P6CZbaEQbiQ)
 - [best VSCode extension?](https://www.youtube.com/watch?v=zbWwgkzB5KA)
 - [Phoenix Framework REST API Crash Course - Introduction + Full Elixir API Tutorial](https://www.youtube.com/watch?v=9xaN44PNxps)
-- [ChatGPT builds game](https://www.youtube.com/watch?v=0qF_jmCCI9g)
 <!-- YOUTUBE:END -->
