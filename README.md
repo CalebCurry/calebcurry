@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Rust Programming Introduction - Beginner Crash Course &lpar;1 Hour!&rpar;](https://www.youtube.com/watch?v=jAm7xrRxEUE)
 - [IBM backpack on day 1](https://www.youtube.com/watch?v=myWUTh-meIM)
 - [rate my drip](https://www.youtube.com/watch?v=DaJKlzu_xOc)
 - [software career is best](https://www.youtube.com/watch?v=VkC2GrF-QHI)
 - [Object Oriented Programming in Java - All-in-One Tutorial Series!](https://www.youtube.com/watch?v=Af3s3KsxStY)
-- [debug in VSCode](https://www.youtube.com/watch?v=P6CZbaEQbiQ)
 <!-- YOUTUBE:END -->
