@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [do this instead of inheritance](https://www.youtube.com/watch?v=bffL82VoO7A)
 - [It&#39;s not a bug, it&#39;s a feature.](https://www.youtube.com/watch?v=_2V33tl83zM)
 - [watch this before starting software engineering career](https://www.youtube.com/watch?v=OIfkfgZTXdk)
 - [Rust Programming Introduction - Beginner Crash Course &lpar;1 Hour!&rpar;](https://www.youtube.com/watch?v=jAm7xrRxEUE)
 - [IBM backpack on day 1](https://www.youtube.com/watch?v=myWUTh-meIM)
-- [rate my drip](https://www.youtube.com/watch?v=DaJKlzu_xOc)
 <!-- YOUTUBE:END -->
