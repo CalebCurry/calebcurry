@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [It&#39;s not a bug, it&#39;s a feature.](https://www.youtube.com/watch?v=_2V33tl83zM)
 - [watch this before starting software engineering career](https://www.youtube.com/watch?v=OIfkfgZTXdk)
 - [Rust Programming Introduction - Beginner Crash Course &lpar;1 Hour!&rpar;](https://www.youtube.com/watch?v=jAm7xrRxEUE)
 - [IBM backpack on day 1](https://www.youtube.com/watch?v=myWUTh-meIM)
 - [rate my drip](https://www.youtube.com/watch?v=DaJKlzu_xOc)
-- [software career is best](https://www.youtube.com/watch?v=VkC2GrF-QHI)
 <!-- YOUTUBE:END -->
