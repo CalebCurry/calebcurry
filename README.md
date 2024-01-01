@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Rust References and Ownership Introduction &lpar;30 Minutes&rpar;](https://www.youtube.com/watch?v=SqF1DmpNifY)
+- [Rust References and Ownership Complete Introduction](https://www.youtube.com/watch?v=MW7nWpwbJSs)
 - [90% of JavaScript Interview Questions](https://www.youtube.com/watch?v=ohkKF14z-Rs)
 - [This made me leave IBM](https://www.youtube.com/watch?v=-mOcZwnyMIc)
 - [How I got a Job at IBM](https://www.youtube.com/watch?v=5ugcgswenn4)
