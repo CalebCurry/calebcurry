@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [rust ownership is simple after this](https://www.youtube.com/watch?v=jYqm4wMybbE)
 - [What are your 2024 Software dev goals?](https://www.youtube.com/watch?v=Z3eXcZokZ8Y)
 - [Rust References and Ownership Complete Introduction](https://www.youtube.com/watch?v=MW7nWpwbJSs)
 - [90% of JavaScript Interview Questions](https://www.youtube.com/watch?v=ohkKF14z-Rs)
 - [This made me leave IBM](https://www.youtube.com/watch?v=-mOcZwnyMIc)
-- [How I got a Job at IBM](https://www.youtube.com/watch?v=5ugcgswenn4)
 <!-- YOUTUBE:END -->
