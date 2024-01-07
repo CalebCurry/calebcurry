@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [String vs &amp;str in rust programming](https://www.youtube.com/watch?v=NvuCYJTXedQ)
 - [non-lexical lifetimes](https://www.youtube.com/watch?v=Ediva78Zm9I)
 - [WebAssembly Introduction - Getting Started with Wasm](https://www.youtube.com/watch?v=dqhJU772ckM)
 - [rust ownership is simple after this](https://www.youtube.com/watch?v=jYqm4wMybbE)
 - [What are your 2024 Software dev goals?](https://www.youtube.com/watch?v=Z3eXcZokZ8Y)
-- [Rust References and Ownership Complete Introduction](https://www.youtube.com/watch?v=MW7nWpwbJSs)
 <!-- YOUTUBE:END -->
