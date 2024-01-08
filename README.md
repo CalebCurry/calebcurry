@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [understand mutable references &lpar;&amp;mut&rpar; in the rust programming language](https://www.youtube.com/watch?v=8YLX04E0veQ)
 - [String vs &amp;str in rust programming](https://www.youtube.com/watch?v=NvuCYJTXedQ)
 - [non-lexical lifetimes](https://www.youtube.com/watch?v=Ediva78Zm9I)
 - [WebAssembly Introduction - Getting Started with Wasm](https://www.youtube.com/watch?v=dqhJU772ckM)
 - [rust ownership is simple after this](https://www.youtube.com/watch?v=jYqm4wMybbE)
-- [What are your 2024 Software dev goals?](https://www.youtube.com/watch?v=Z3eXcZokZ8Y)
 <!-- YOUTUBE:END -->
