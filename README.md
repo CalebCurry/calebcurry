@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Keys and Digital Signatures in Rust](https://www.youtube.com/watch?v=JNkmXMjKv0o)
 - [Unsafe Rust - Complete Tutorial](https://www.youtube.com/watch?v=-l0W_T8taZA)
 - [PostgreSQL Introduction - Beginner Crash Course](https://www.youtube.com/watch?v=bssWKAX74uA)
 - [joins in sql](https://www.youtube.com/watch?v=iKqVEq4Bb0g)
 - [SQLite3 in Node with better-sqlite3](https://www.youtube.com/watch?v=IooIXYf0PIo)
-- [if you&#39;re a web developer you need to know webassembly](https://www.youtube.com/watch?v=q48EEq3l_JQ)
 <!-- YOUTUBE:END -->
