@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [One-on-One Mentorship in Software Engineering - Land Six Figure Offers!](https://www.youtube.com/watch?v=fCgGIlnUbVY)
 - [$100,000 as a C++ Engineer - NEW C++ Mastery Course](https://www.youtube.com/watch?v=lNSKRxoXvPU)
 - [Keys and Digital Signatures in Rust](https://www.youtube.com/watch?v=JNkmXMjKv0o)
 - [Unsafe Rust - Complete Tutorial](https://www.youtube.com/watch?v=-l0W_T8taZA)
 - [PostgreSQL Introduction - Beginner Crash Course](https://www.youtube.com/watch?v=bssWKAX74uA)
-- [joins in sql](https://www.youtube.com/watch?v=iKqVEq4Bb0g)
 <!-- YOUTUBE:END -->
