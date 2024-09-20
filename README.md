@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Run Postgres in a Docker Container &lpar;Easiest PostgreSQL Setup&rpar;](https://www.youtube.com/watch?v=Hs9Fh1fr5s8)
 - [Introduction to System Design - MVC and Three-Tier Architecture](https://www.youtube.com/watch?v=0e7yQ43bUtg)
 - [Complete Roadmap for Backend Software Engineers &lpar;START HERE!&rpar;](https://www.youtube.com/watch?v=3QP43F4gVIE)
 - [25+ Most Important AWS Services - Amazon Web Services for Backend Engineers](https://www.youtube.com/watch?v=Qnn9Q02YNEM)
 - [Complete Backend Software Engineer Mind Map - Everything You Need to Know &lpar;2 HOURS!&rpar;](https://www.youtube.com/watch?v=oVfw8Oj-uH8)
-- [SaaS, PaaS and IaaS - Finally Understand Software As a Service](https://www.youtube.com/watch?v=pY2-5YvJWSo)
 <!-- YOUTUBE:END -->
