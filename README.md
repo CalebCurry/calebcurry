@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Global App Scaling - Scale Your App Across Data Centers and Regions - System Design](https://www.youtube.com/watch?v=syAUXNxAiHs)
+- [How to Scale Your App to Global Levels - System Design](https://www.youtube.com/watch?v=syAUXNxAiHs)
 - [Horizontal and Vertical Scaling &lpar;How to Scale Your Application&rpar; - System Design](https://www.youtube.com/watch?v=XqzoUlmJrB4)
 - [Using C Libraries in Rust](https://www.youtube.com/watch?v=UpmFxJDcFfo)
 - [Scale an App to Millions of Users - System Design](https://www.youtube.com/watch?v=tjubQ97lxA4)
