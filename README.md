@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Global App Scaling - Scale Your App Across Data Centers and Regions - System Design](https://www.youtube.com/watch?v=syAUXNxAiHs)
 - [Horizontal and Vertical Scaling &lpar;How to Scale Your Application&rpar; - System Design](https://www.youtube.com/watch?v=XqzoUlmJrB4)
 - [Using C Libraries in Rust](https://www.youtube.com/watch?v=UpmFxJDcFfo)
 - [Scale an App to Millions of Users - System Design](https://www.youtube.com/watch?v=tjubQ97lxA4)
 - [Essential System Design Concepts You Should Know - System Design Tutorial](https://www.youtube.com/watch?v=uxskKNcsFLU)
-- [Run Postgres in a Docker Container &lpar;Easiest PostgreSQL Setup&rpar;](https://www.youtube.com/watch?v=Hs9Fh1fr5s8)
 <!-- YOUTUBE:END -->
