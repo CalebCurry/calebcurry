@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Check your ego](https://www.youtube.com/watch?v=kDomh1piAR0)
 - [No BS Advice for Software Engineers](https://www.youtube.com/watch?v=ga3nYHWtS14)
 - [The job market isn&#39;t the problem - it&#39;s you](https://www.youtube.com/watch?v=FqRfBg4V8_s)
 - [Replication and Sharding - System Design](https://www.youtube.com/watch?v=oh8GvLf45t0)
 - [Did I achieve my software engineering goals? #rust](https://www.youtube.com/watch?v=_Ih--1Ecblc)
-- [CAP Theorem - Consistency, Availability and Partition Tolerance - System Design](https://www.youtube.com/watch?v=t5WPGMXOtds)
 <!-- YOUTUBE:END -->
