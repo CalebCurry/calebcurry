@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [I Asked my Gen Z Intern to Edit My Video](https://www.youtube.com/shorts/b5IOlPHaguI)
+- [I Asked My Gen Z Intern to Edit My Video](https://www.youtube.com/shorts/b5IOlPHaguI)
 - [Introduction to Computing - Software and Hardware Fundamentals](https://www.youtube.com/watch?v=JuLKB--zOho)
 - [Intro to NoSQL Databases - System Design](https://www.youtube.com/watch?v=FRqrZGB8NBs)
 - [AI is not going to take your job #softwareengineering](https://www.youtube.com/shorts/EInWpO86ANs)
