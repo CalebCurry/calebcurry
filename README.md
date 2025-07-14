@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔴 Caleb Curry is live! Course Launch - Software Engineering Fundamentals](https://www.youtube.com/watch?v=g-TZ7gDoWYM)
 - [Fundamentals of Software Engineering &lpar;The Skills You Are Missing&rpar;](https://www.youtube.com/watch?v=lQZh2xRSAxk)
 - [I Asked My Gen Z Intern to Edit My Video](https://www.youtube.com/shorts/b5IOlPHaguI)
 - [Introduction to Computing - Software and Hardware Fundamentals](https://www.youtube.com/watch?v=JuLKB--zOho)
 - [Intro to NoSQL Databases - System Design](https://www.youtube.com/watch?v=FRqrZGB8NBs)
-- [AI is not going to take your job #softwareengineering](https://www.youtube.com/shorts/EInWpO86ANs)
 <!-- YOUTUBE:END -->
