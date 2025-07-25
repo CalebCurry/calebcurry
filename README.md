@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Introduction to AI - AI Agents, Large Language Models, Prompt Engineering](https://www.youtube.com/watch?v=0cuJfWH0k4g)
 - [You NEED to Learn AI for Interviews](https://www.youtube.com/shorts/clVaJLV-jdI)
 - [3 Things You Should Know About AI](https://www.youtube.com/shorts/SheAN2mKZiA)
 - [AI Mastery for Software Engineers &lpar;Why You Should Care about AI&rpar;](https://www.youtube.com/watch?v=AOt1Iu--zME)
 - [🔴 Caleb Curry is live! Course Launch - Software Engineering Fundamentals](https://www.youtube.com/watch?v=g-TZ7gDoWYM)
-- [Fundamentals of Software Engineering &lpar;The Skills You Are Missing&rpar;](https://www.youtube.com/watch?v=lQZh2xRSAxk)
 <!-- YOUTUBE:END -->
