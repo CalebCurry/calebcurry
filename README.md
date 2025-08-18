@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Become a Successful Software Engineer - My BIGGEST Announcement Yet &lpar;CodeBreakthrough Vault&rpar;](https://www.youtube.com/watch?v=eeC98OZ6SLI)
 - [🔴 Caleb Curry LIVE - Course Countdown - AI and Software Engineering Roadmap](https://www.youtube.com/watch?v=FA5R-nSBmUQ)
 - [Enforce GitHub Copilot Code Reviews on Pull Requests](https://www.youtube.com/watch?v=xkLi56Al12c)
 - [Introduction to AI - AI Agents, Large Language Models, Prompt Engineering](https://www.youtube.com/watch?v=0cuJfWH0k4g)
 - [You NEED to Learn AI for Interviews](https://www.youtube.com/shorts/clVaJLV-jdI)
-- [3 Things You Should Know About AI](https://www.youtube.com/shorts/SheAN2mKZiA)
 <!-- YOUTUBE:END -->
