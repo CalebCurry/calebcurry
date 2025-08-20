@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [What I discovered Mentoring Software Engineers &lpar;Avoid these 10 mistakes...&rpar;](https://www.youtube.com/watch?v=ff-Y1xYnDZo)
+- [Biggest Mistakes of Software Engineers &lpar;Avoid these if you want to succeed&rpar;](https://www.youtube.com/watch?v=ff-Y1xYnDZo)
 - [Become a Successful Software Engineer with me Software Engineering Fundamentals Course](https://www.youtube.com/shorts/h2PWCI5Roh0)
 - [Become a Successful Software Engineer - My BIGGEST Announcement Yet &lpar;CodeBreakthrough Vault&rpar;](https://www.youtube.com/watch?v=eeC98OZ6SLI)
 - [🔴 Caleb Curry LIVE - Course Countdown - AI and Software Engineering Roadmap](https://www.youtube.com/watch?v=FA5R-nSBmUQ)
