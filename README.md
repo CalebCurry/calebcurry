@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [C++ Object Oriented Programming Crash Course &lpar;1.5 HOURS&rpar;](https://www.youtube.com/watch?v=zZpLRBHfY3Q)
 - [FastAPI Intro - Full CRUD API Tutorial &lpar;1 HOUR&rpar; - Backend Engineering](https://www.youtube.com/watch?v=k5abZLzsQc0)
 - [API Status Codes and OpenAPI Documentation - Backend Engineering](https://www.youtube.com/watch?v=doR604EaOhM)
 - [🔴 Caleb Curry is live! Advanced Fundamentals and Roadmap](https://www.youtube.com/watch?v=UYFfuRAUzlo)
 - [API Design and Architecture  - Backend Engineering Intro &lpar;1 Hour&rpar;](https://www.youtube.com/watch?v=XvFmUE-36Kc)
-- [Biggest Mistakes of Software Engineers &lpar;Avoid these if you want to succeed&rpar;](https://www.youtube.com/watch?v=ff-Y1xYnDZo)
 <!-- YOUTUBE:END -->
