@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Offset and Limit Pagination Tutorial &lpar;API Design&rpar; - Backend Engineering](https://www.youtube.com/watch?v=nZGkKGK1dwg)
 - [API Pagination - Offset and Cursor Pagination Explained - Backend Engineering](https://www.youtube.com/watch?v=mvlzhBgGS4s)
 - [C++ Object Oriented Programming Crash Course &lpar;1.5 HOURS&rpar;](https://www.youtube.com/watch?v=zZpLRBHfY3Q)
 - [FastAPI Intro - Full CRUD REST API Tutorial &lpar;1 HOUR&rpar; - Backend Engineering](https://www.youtube.com/watch?v=k5abZLzsQc0)
 - [API Status Codes and OpenAPI Documentation - Backend Engineering](https://www.youtube.com/watch?v=doR604EaOhM)
-- [🔴 Caleb Curry is live! Advanced Fundamentals and Roadmap](https://www.youtube.com/watch?v=UYFfuRAUzlo)
 <!-- YOUTUBE:END -->
