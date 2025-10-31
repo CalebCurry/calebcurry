@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Getting Started with Data Structures and Algorithms &lpar;DSA&rpar;](https://www.youtube.com/watch?v=kBtCLTcB9bc)
 - [Need to Learn Data Structures and Algorithms? Watch this](https://www.youtube.com/watch?v=kyUPU_Tpoq4)
 - [Intro to Prisma ORM](https://www.youtube.com/watch?v=gYeV4wmcyes)
 - [API Cursor Pagination &lpar;Infinite Scroll&rpar; - Backend Engineering](https://www.youtube.com/watch?v=6W5_HoOKMPg)
 - [Offset and Limit Pagination Tutorial &lpar;API Design&rpar; - Backend Engineering](https://www.youtube.com/watch?v=nZGkKGK1dwg)
-- [API Pagination - Offset and Cursor Pagination Explained - Backend Engineering](https://www.youtube.com/watch?v=mvlzhBgGS4s)
 <!-- YOUTUBE:END -->
