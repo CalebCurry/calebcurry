@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [I’m 100% confident #factcheck #ai](https://www.youtube.com/shorts/NPZmr7_KTA0)
 - [Just do what I say plz #chatgpt #ai](https://www.youtube.com/shorts/q3no9H5HGSk)
 - [Automate everything #business](https://www.youtube.com/shorts/4Wv2-uNv6Ho)
 - [Cut first then automate. Agree? #automation](https://www.youtube.com/shorts/eJQ0I0rxzjg)
 - [What do you think 🤔 #success #growth](https://www.youtube.com/shorts/9tzMz4Cp3mA)
-- [Does AI remember? #ai #chatgpt](https://www.youtube.com/shorts/SKhed3oDTzc)
 <!-- YOUTUBE:END -->
