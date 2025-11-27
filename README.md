@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Don’t ignore this with interviews #interview #ai #tech](https://www.youtube.com/shorts/uC3mLcrzm_o)
 - [Are we cooked? #layoffs #ai #tech](https://www.youtube.com/shorts/GjvYAB2FCgg)
 - [short videos = unlimited money glitch?](https://www.youtube.com/shorts/5xk0JhcN0qM)
 - [What it takes to Master Software Engineering &lpar;exact step-by-step&rpar;](https://www.youtube.com/watch?v=xw8fetIskjQ)
 - [I’m 100% confident #factcheck #ai](https://www.youtube.com/shorts/NPZmr7_KTA0)
-- [Just do what I say plz #chatgpt #ai](https://www.youtube.com/shorts/q3no9H5HGSk)
 <!-- YOUTUBE:END -->
