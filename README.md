@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Can’t read? Try this instead #ai #chatgpt](https://www.youtube.com/shorts/hjqDYpE9KD8)
 - [Applications of Data Structures and Algorithms &lpar;DSA in the Real World&rpar;](https://www.youtube.com/watch?v=Vi4ksWxDAvM)
 - [Most people don’t know how to make AI smarter #ai #RAG #databases](https://www.youtube.com/shorts/rGpfaxd2aCw)
 - [Yea I don’t need an AI fridge #crazy #dystopian #future](https://www.youtube.com/shorts/5pn62Z-5Osc)
 - [AI Is Out of Control &lpar;here’s why&rpar;](https://www.youtube.com/watch?v=9qPN-Q9uAOQ)
-- [You guys can’t see opportunity…Here’s just ONE way to use AI for your benefit](https://www.youtube.com/shorts/F3JH6fuOiDA)
 <!-- YOUTUBE:END -->
