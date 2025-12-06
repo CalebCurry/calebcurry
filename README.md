@@ -11,7 +11,7 @@
 <!-- YOUTUBE:START -->
 - [Some models are special yall #ai #llm #chatgpt](https://www.youtube.com/shorts/95416dtwDAY)
 - [Can’t read? Try this instead #ai #chatgpt](https://www.youtube.com/shorts/hjqDYpE9KD8)
-- [Applications of Data Structures and Algorithms &lpar;DSA in the Real World&rpar;](https://www.youtube.com/watch?v=Vi4ksWxDAvM)
+- [EngineerAlgorithms are for more than just Interviews &lpar;real world DSA&rpar;](https://www.youtube.com/watch?v=Vi4ksWxDAvM)
 - [Most people don’t know how to make AI smarter #ai #RAG #databases](https://www.youtube.com/shorts/rGpfaxd2aCw)
 - [Yea I don’t need an AI fridge #crazy #dystopian #future](https://www.youtube.com/shorts/5pn62Z-5Osc)
 <!-- YOUTUBE:END -->
