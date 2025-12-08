@@ -12,6 +12,6 @@
 - [How to fix bad answers from AI #ai #llm #chatgpt](https://www.youtube.com/shorts/lunc-rX8m-E)
 - [Some models are special yall #ai #llm #chatgpt](https://www.youtube.com/shorts/95416dtwDAY)
 - [Can’t read? Try this instead #ai #chatgpt](https://www.youtube.com/shorts/hjqDYpE9KD8)
-- [EngineerAlgorithms are for more than just Interviews &lpar;real world DSA&rpar;](https://www.youtube.com/watch?v=Vi4ksWxDAvM)
+- [Data Structures and Algorithms to Know as a Software &lpar;Know these to be a better dev&rpar;](https://www.youtube.com/watch?v=Vi4ksWxDAvM)
 - [Most people don’t know how to make AI smarter #ai #RAG #databases](https://www.youtube.com/shorts/rGpfaxd2aCw)
 <!-- YOUTUBE:END -->
