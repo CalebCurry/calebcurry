@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Gettin kinda hot in here #ai #temperature #llm](https://www.youtube.com/shorts/xvW0hjWFtEI)
 - [Intro to Authentication - User and API Auth](https://www.youtube.com/watch?v=wGBQTpGqc5c)
 - [Authentication vs Authorization for dummies  #webdevelopment #softwareengineering](https://www.youtube.com/shorts/BRWiOcEHv88)
 - [How to fix bad answers from AI #ai #llm #chatgpt](https://www.youtube.com/shorts/lunc-rX8m-E)
 - [Some models are special yall #ai #llm #chatgpt](https://www.youtube.com/shorts/95416dtwDAY)
-- [Can’t read? Try this instead #ai #chatgpt](https://www.youtube.com/shorts/hjqDYpE9KD8)
 <!-- YOUTUBE:END -->
