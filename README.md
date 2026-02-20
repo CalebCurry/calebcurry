@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What You Need to Know to Master Python &lpar;Fundamentals, Libraries, AI, Machine Learning, Backend&rpar;](https://www.youtube.com/watch?v=mcVoWyvhkKQ)
 - [How to Learn Python - 8 Week Python Mastery](https://www.youtube.com/watch?v=mJX560F_hV8)
 - [How to make AI work better](https://www.youtube.com/shorts/8CRhLXRuY_A)
 - [Top-k sampling #ai #llm](https://www.youtube.com/shorts/pFaF_qDlWUg)
 - [Gettin kinda hot in here #ai #temperature #llm](https://www.youtube.com/shorts/xvW0hjWFtEI)
-- [Intro to Authentication - User and API Auth](https://www.youtube.com/watch?v=wGBQTpGqc5c)
 <!-- YOUTUBE:END -->
