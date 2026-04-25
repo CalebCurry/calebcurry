@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Complete Computer Science Roadmap - Everything you should know as a Software Engineer](https://www.youtube.com/watch?v=FU62jHPAn8s)
+- [Roadmap to Computer Science Mastery - Complete Introduction](https://www.youtube.com/watch?v=FU62jHPAn8s)
 - [Dependencies, Wheels, and Lock Files Explained - Python Packages](https://www.youtube.com/watch?v=mvccVMae19A)
 - [What You Need to Know to Master Python &lpar;Fundamentals, Libraries, AI, Machine Learning, Backend&rpar;](https://www.youtube.com/watch?v=mcVoWyvhkKQ)
 - [How to make AI work better](https://www.youtube.com/shorts/8CRhLXRuY_A)
