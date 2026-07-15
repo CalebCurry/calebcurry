@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [These 90 Minutes Will Change the Way You Use AI](https://www.youtube.com/watch?v=vLWSIGxpfYA)
 - [Digital Systems and Binary - Computer Science](https://www.youtube.com/watch?v=nM4q7KWRuPs)
 - [Roadmap to Computer Science Mastery - Complete Introduction](https://www.youtube.com/watch?v=FU62jHPAn8s)
 - [Dependencies, Wheels, and Lock Files Explained - Python Packages](https://www.youtube.com/watch?v=mvccVMae19A)
 - [What You Need to Know to Master Python &lpar;Fundamentals, Libraries, AI, Machine Learning, Backend&rpar;](https://www.youtube.com/watch?v=mcVoWyvhkKQ)
-- [How to make AI work better](https://www.youtube.com/shorts/8CRhLXRuY_A)
 <!-- YOUTUBE:END -->
