@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [This One Setting will Change how You use Claude Code](https://www.youtube.com/watch?v=0H_n4nx3MFE)
 - [Claude Code for Beginners - Skills, MCP, Subagents, Hooks &lpar;1 HOUR!&rpar;](https://www.youtube.com/watch?v=8PVGtt7Fa7g)
 - [These 90 Minutes Will Change the Way You Use AI](https://www.youtube.com/watch?v=vLWSIGxpfYA)
 - [Digital Systems and Binary - Computer Science](https://www.youtube.com/watch?v=nM4q7KWRuPs)
 - [Roadmap to Computer Science Mastery - Complete Introduction](https://www.youtube.com/watch?v=FU62jHPAn8s)
-- [Dependencies, Wheels, and Lock Files Explained - Python Packages](https://www.youtube.com/watch?v=mvccVMae19A)
 <!-- YOUTUBE:END -->
