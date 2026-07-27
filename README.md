@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [15 Years of Software Engineering Advice in 1 Hour](https://www.youtube.com/watch?v=CTknA1gykmg)
 - [This Approach will Change the Way You Use AI](https://www.youtube.com/watch?v=jJiazYJ2ZAk)
 - [This One Setting will Change how You use Claude Code](https://www.youtube.com/watch?v=0H_n4nx3MFE)
 - [One Hour of Claude Code that will Change How You Use AI - Full Intro Course](https://www.youtube.com/watch?v=8PVGtt7Fa7g)
 - [These 90 Minutes Will Change the Way You Use AI](https://www.youtube.com/watch?v=vLWSIGxpfYA)
-- [Digital Systems and Binary - Computer Science](https://www.youtube.com/watch?v=nM4q7KWRuPs)
 <!-- YOUTUBE:END -->
