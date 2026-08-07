@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Connect AI to Anything - Build your First MCP Server &lpar;Model Context Protocol&rpar;](https://www.youtube.com/watch?v=h_K70-MkRPw)
 - [These 60 Minutes Will Change the Way You Build SaaS](https://www.youtube.com/watch?v=H1IqeMpmVqM)
 - [🔴 Live! AI and Agents for Software Engineers](https://www.youtube.com/watch?v=ZPTiBpjcZG4)
 - [15 Years of Software Engineering Advice in 1 Hour](https://www.youtube.com/watch?v=CTknA1gykmg)
 - [This Approach will Change the Way You Use AI](https://www.youtube.com/watch?v=jJiazYJ2ZAk)
-- [This One Setting will Change how You use Claude Code](https://www.youtube.com/watch?v=0H_n4nx3MFE)
 <!-- YOUTUBE:END -->
