@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [3 Things I&#39;d Learn in the Age of AI](https://www.youtube.com/watch?v=uM2jaGBlBpU)
 - [Should You Still Learn to Code?](https://www.youtube.com/watch?v=DCYu-1sp8UA)
 - [Connect AI to Anything - Build your First MCP Server &lpar;Model Context Protocol&rpar;](https://www.youtube.com/watch?v=h_K70-MkRPw)
 - [These 60 Minutes Will Change the Way You Build SaaS](https://www.youtube.com/watch?v=H1IqeMpmVqM)
 - [🔴 Live! AI and Agents for Software Engineers](https://www.youtube.com/watch?v=ZPTiBpjcZG4)
-- [15 Years of Software Engineering Advice in 1 Hour](https://www.youtube.com/watch?v=CTknA1gykmg)
 <!-- YOUTUBE:END -->
