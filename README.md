@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DeepSeek Harness - Full Tutorial for Beginners](https://www.youtube.com/watch?v=legYz3Hk2rQ)
 - [The NEW Way of Building Landing Pages &lpar;3D Websites in 10 mins&rpar;](https://www.youtube.com/watch?v=bbM4VPvNlQ8)
 - [20 minutes is all it takes to learn AI](https://www.youtube.com/watch?v=UpuCujQL1JI)
 - [3 Things I&#39;d Learn in the Age of AI](https://www.youtube.com/watch?v=uM2jaGBlBpU)
 - [Should You Still Learn to Code?](https://www.youtube.com/watch?v=DCYu-1sp8UA)
-- [Connect AI to Anything - Build your First MCP Server &lpar;Model Context Protocol&rpar;](https://www.youtube.com/watch?v=h_K70-MkRPw)
 <!-- YOUTUBE:END -->
