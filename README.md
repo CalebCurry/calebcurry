@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [DeepSeek Harness - Full Tutorial for Beginners](https://www.youtube.com/watch?v=legYz3Hk2rQ)
+- [DeepSeek Harness will Change the Way You Use AI](https://www.youtube.com/watch?v=legYz3Hk2rQ)
 - [This will change the way you build websites](https://www.youtube.com/watch?v=bbM4VPvNlQ8)
 - [20 minutes is all it takes to learn AI](https://www.youtube.com/watch?v=UpuCujQL1JI)
 - [3 Things I&#39;d Learn in the Age of AI](https://www.youtube.com/watch?v=uM2jaGBlBpU)
