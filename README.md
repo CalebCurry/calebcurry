@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How to Learn ANYTHING with AI](https://www.youtube.com/watch?v=mocHtnKELR0)
+- [Learn 10x Faster with this AI Learning Method](https://www.youtube.com/watch?v=mocHtnKELR0)
 - [DeepSeek Harness Agentic AI Crash Course &lpar;Run Any AI Model&rpar;](https://www.youtube.com/watch?v=legYz3Hk2rQ)
 - [This will change the way you build websites](https://www.youtube.com/watch?v=bbM4VPvNlQ8)
 - [20 minutes is all it takes to learn AI](https://www.youtube.com/watch?v=UpuCujQL1JI)
