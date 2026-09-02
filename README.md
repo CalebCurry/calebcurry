@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [The best way build mobile apps in 2026](https://www.youtube.com/watch?v=fcJz7TIPfR4)
+- [The best way to build mobile apps in 2026](https://www.youtube.com/watch?v=fcJz7TIPfR4)
 - [Learn 10x Faster with this AI Learning Method](https://www.youtube.com/watch?v=mocHtnKELR0)
 - [DeepSeek Harness Agentic AI Crash Course &lpar;Run Any AI Model&rpar;](https://www.youtube.com/watch?v=legYz3Hk2rQ)
 - [This will change the way you build websites](https://www.youtube.com/watch?v=bbM4VPvNlQ8)
