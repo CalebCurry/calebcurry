@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What is a Forward Deployed Engineer &lpar;FDE&rpar;?](https://www.youtube.com/watch?v=YbeJxi0Ju1A)
 - [The best way to build mobile apps in 2026](https://www.youtube.com/watch?v=fcJz7TIPfR4)
 - [Learn 10x Faster with this AI Learning Method](https://www.youtube.com/watch?v=mocHtnKELR0)
 - [DeepSeek Harness Agentic AI Crash Course &lpar;Run Any AI Model&rpar;](https://www.youtube.com/watch?v=legYz3Hk2rQ)
 - [This will change the way you build websites](https://www.youtube.com/watch?v=bbM4VPvNlQ8)
-- [20 minutes is all it takes to learn AI](https://www.youtube.com/watch?v=UpuCujQL1JI)
 <!-- YOUTUBE:END -->
