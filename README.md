@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Autonomous AI and Agent Orchestration - Buzz + Paperclip](https://www.youtube.com/watch?v=Y-9ChZWD97U)
 - [AI Ruined Programming](https://www.youtube.com/watch?v=y03k1CLaUXc)
 - [SEO Crash Course - Rank in Google and AI Search &lpar;1 HOUR!&rpar;](https://www.youtube.com/watch?v=K62aFUwViMM)
 - [This will Change the Way you Use AI Agents](https://www.youtube.com/watch?v=n5F8vysY7Xw)
 - [What is a Forward Deployed Engineer &lpar;FDE&rpar;?](https://www.youtube.com/watch?v=YbeJxi0Ju1A)
-- [The best way to build mobile apps in 2026](https://www.youtube.com/watch?v=fcJz7TIPfR4)
 <!-- YOUTUBE:END -->
