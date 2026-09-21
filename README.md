@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Here&#39;s What I Built With AI](https://www.youtube.com/watch?v=lTOW91Qo_zc)
+- [Let me Show You What to Build With AI](https://www.youtube.com/watch?v=lTOW91Qo_zc)
 - [Autonomous AI and Agent Orchestration - Buzz + Paperclip](https://www.youtube.com/watch?v=Y-9ChZWD97U)
 - [AI Ruined Programming](https://www.youtube.com/watch?v=y03k1CLaUXc)
 - [SEO Crash Course - Rank in Google and AI Search &lpar;1 HOUR!&rpar;](https://www.youtube.com/watch?v=K62aFUwViMM)
