@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Viktor can run everything from Slack #ai #agenticai](https://www.youtube.com/shorts/q87mzjPSLaI)
 - [Let me Show You What to Build With AI](https://www.youtube.com/watch?v=lTOW91Qo_zc)
 - [Autonomous AI and Agent Orchestration - Buzz + Paperclip](https://www.youtube.com/watch?v=Y-9ChZWD97U)
 - [AI Ruined Programming](https://www.youtube.com/watch?v=y03k1CLaUXc)
 - [SEO Crash Course - Rank in Google and AI Search &lpar;1 HOUR!&rpar;](https://www.youtube.com/watch?v=K62aFUwViMM)
-- [This will Change the Way you Use AI Agents](https://www.youtube.com/watch?v=n5F8vysY7Xw)
 <!-- YOUTUBE:END -->
