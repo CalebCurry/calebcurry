@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [My Daily Software Engineering Workflow &lpar;ft. Logitech MX Keypad&rpar;](https://www.youtube.com/watch?v=wmvUYwkagns)
 - [How to Build an Agent in Python with Abacus AI](https://www.youtube.com/watch?v=UzD5L6jQMVE)
 - [ElysiaJS Full CRUD API Beginner Tutorial &lpar;Bun + Elysia TypeScript Backend Engineering - 1 Hour&rpar;](https://www.youtube.com/watch?v=Ux9HeMmwxTc)
 - [Viktor can run everything from Slack #ai #agenticai](https://www.youtube.com/shorts/q87mzjPSLaI)
 - [Let me Show You What to Build With AI](https://www.youtube.com/watch?v=lTOW91Qo_zc)
-- [Autonomous AI and Agent Orchestration - Buzz + Paperclip](https://www.youtube.com/watch?v=Y-9ChZWD97U)
 <!-- YOUTUBE:END -->
