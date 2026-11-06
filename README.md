@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Intro to AI Agents and Subagents &lpar;Claude + Codex&rpar;](https://www.youtube.com/watch?v=JqPww_Mru04)
 - [Lovable will Change the Way You Build Apps](https://www.youtube.com/watch?v=2BVqUET_Uig)
 - [I Built an AI Learning Assistant &lpar;Vectorless RAG + Vercel AI SDK&rpar;](https://www.youtube.com/watch?v=6VtRyo3p878)
 - [Top 5 AI Engineering Courses I’d Take If I Started Over &lpar;2026&rpar;](https://www.youtube.com/watch?v=drCKz7DzrqU)
 - [My Daily Software Engineering Workflow &lpar;ft. Logitech MX Keypad&rpar;](https://www.youtube.com/watch?v=wmvUYwkagns)
-- [How to Build an Agent in Python with Abacus AI](https://www.youtube.com/watch?v=UzD5L6jQMVE)
 <!-- YOUTUBE:END -->
