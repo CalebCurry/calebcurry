@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI apps are lying to you](https://www.youtube.com/shorts/JvCIH4MEDwA)
 - [knowledge has a 30 minute lifespan now](https://www.youtube.com/shorts/qTSkbhvCC70)
 - [you&#39;ve wasted so much time learning code #coding #programming](https://www.youtube.com/shorts/vtbkxZjEZVw)
 - [You&#39;re Wasting Time Learning…](https://www.youtube.com/watch?v=OnGkVk9XWHg)
 - [why your AI produces slop](https://www.youtube.com/shorts/tN4EonODNpY)
-- [AI Skills Are Just Text Files &lpar;Here&#39;s Why They Work&rpar;](https://www.youtube.com/shorts/ib0OzMRRwG4)
 <!-- YOUTUBE:END -->
