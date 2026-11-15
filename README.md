@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Hand-written code could be hurting you](https://www.youtube.com/shorts/017-zPREFIQ)
 - [I stopped using AI](https://www.youtube.com/shorts/UbB7tVGWo90)
 - [AI apps are lying to you](https://www.youtube.com/shorts/JvCIH4MEDwA)
 - [knowledge has a 30 minute lifespan now](https://www.youtube.com/shorts/qTSkbhvCC70)
 - [you&#39;ve wasted so much time learning code #coding #programming](https://www.youtube.com/shorts/vtbkxZjEZVw)
-- [You&#39;re Wasting Time Learning…](https://www.youtube.com/watch?v=OnGkVk9XWHg)
 <!-- YOUTUBE:END -->
