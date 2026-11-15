@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Will AI take your job?](https://www.youtube.com/shorts/F3SBypxFSVE)
 - [Thinking about quitting AI? #coding #ai](https://www.youtube.com/shorts/XTBrkAHJ670)
 - [Hand-written code could be hurting you](https://www.youtube.com/shorts/017-zPREFIQ)
 - [I stopped using AI](https://www.youtube.com/shorts/UbB7tVGWo90)
 - [AI apps are lying to you](https://www.youtube.com/shorts/JvCIH4MEDwA)
-- [knowledge has a 30 minute lifespan now](https://www.youtube.com/shorts/qTSkbhvCC70)
 <!-- YOUTUBE:END -->
