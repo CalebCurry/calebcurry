@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [System Design for Production Apps - Backend Engineering](https://www.youtube.com/watch?v=UsvSfP3Iqis)
 - [The microservice trap](https://www.youtube.com/shorts/4t0YLSRPFU4)
 - [Why you shouldn&#39;t go to college](https://www.youtube.com/shorts/cUsJcFZGIxw)
 - [My insane hiring disaster 😳](https://www.youtube.com/shorts/l9UOO-1iGSk)
 - [Scared to touch your own code?](https://www.youtube.com/shorts/A5TJZ7UgIcI)
-- [Will AI take your job?](https://www.youtube.com/shorts/F3SBypxFSVE)
 <!-- YOUTUBE:END -->
