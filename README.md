@@ -9,7 +9,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [What happens if you skip rate limiting? #coding #webdev](https://www.youtube.com/shorts/u44By8_84js)
+- [What happens when you skip rate limiting?](https://www.youtube.com/shorts/u44By8_84js)
 - [System Design for Production Apps - Backend Engineering](https://www.youtube.com/watch?v=UsvSfP3Iqis)
 - [The microservice trap](https://www.youtube.com/shorts/4t0YLSRPFU4)
 - [Why you shouldn&#39;t go to college](https://www.youtube.com/shorts/cUsJcFZGIxw)
