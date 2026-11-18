@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [You&#39;re Building the Wrong Stuff...](https://www.youtube.com/watch?v=edu3QEnDpSo)
 - [What happens when you skip rate limiting?](https://www.youtube.com/shorts/u44By8_84js)
 - [System Design for Production Apps - Backend Engineering](https://www.youtube.com/watch?v=UsvSfP3Iqis)
 - [The microservice trap](https://www.youtube.com/shorts/4t0YLSRPFU4)
 - [Why you shouldn&#39;t go to college](https://www.youtube.com/shorts/cUsJcFZGIxw)
-- [My insane hiring disaster 😳](https://www.youtube.com/shorts/l9UOO-1iGSk)
 <!-- YOUTUBE:END -->
