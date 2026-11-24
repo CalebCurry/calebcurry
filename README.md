@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Database Design Full Course - How to Design a Relational Database &lpar;1.5 Hours!&rpar;](https://www.youtube.com/watch?v=KusGrz5nLQQ)
 - [GTA 6 System Design - Backend Engineering for Grand Theft Auto](https://www.youtube.com/watch?v=jew1k1PjTkY)
 - [AI coding will ruin your job](https://www.youtube.com/shorts/CKuUGeRRH5o)
 - [You&#39;re Building the Wrong Stuff...](https://www.youtube.com/watch?v=edu3QEnDpSo)
 - [What happens when you skip rate limiting?](https://www.youtube.com/shorts/u44By8_84js)
-- [System Design for Production Apps - Backend Engineering](https://www.youtube.com/watch?v=UsvSfP3Iqis)
 <!-- YOUTUBE:END -->
