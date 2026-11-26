@@ -9,9 +9,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [System Design Full Course - Learn Queues, Workers, Databases, Serverless Functions, Webhooks](https://www.youtube.com/watch?v=d2dFJvf2HCU)
 - [SQL Full Course for Beginners - Learn SQL from Scratch &lpar;1 HOUR!&rpar;](https://www.youtube.com/watch?v=aHb_2jCapuE)
 - [Database Design Full Course - How to Design a Relational Database &lpar;1.5 Hours!&rpar;](https://www.youtube.com/watch?v=KusGrz5nLQQ)
 - [GTA 6 System Design - Backend Engineering for Grand Theft Auto](https://www.youtube.com/watch?v=jew1k1PjTkY)
 - [AI coding will ruin your job](https://www.youtube.com/shorts/CKuUGeRRH5o)
-- [You&#39;re Building the Wrong Stuff...](https://www.youtube.com/watch?v=edu3QEnDpSo)
 <!-- YOUTUBE:END -->
